@@ -84,20 +84,6 @@
     "release": "v1.3"
   },
   {
-    "bkid": 42,
-    "title": "تفسير السعدي = تيسير الكريم الرحمن",
-    "author": "عبد الرحمن السعدي",
-    "category": "التفاسير",
-    "cat_id": 127,
-    "pages": 2175,
-    "filename": "42.sqlite.zst",
-    "size_raw": 8835072,
-    "size_zst": 1680942,
-    "authno": 128,
-    "author_died": "1376",
-    "release": "v1.3"
-  },
-  {
     "bkid": 43,
     "title": "تفسير الطبري = جامع البيان ت شاكر",
     "author": "الطبري، أبو جعفر",
@@ -221,20 +207,6 @@
     "size_zst": 80855,
     "authno": 381,
     "author_died": "233",
-    "release": "v1.0"
-  },
-  {
-    "bkid": 107,
-    "title": "فتاوى نور على الدرب لابن باز بعناية الشويعر",
-    "author": "ابن باز",
-    "category": "الفتاوى",
-    "cat_id": 141,
-    "pages": 9324,
-    "filename": "107.sqlite.zst",
-    "size_raw": 14090240,
-    "size_zst": 2126431,
-    "authno": 67,
-    "author_died": "1420",
     "release": "v1.0"
   },
   {
@@ -714,20 +686,6 @@
     "release": "v1.4"
   },
   {
-    "bkid": 239,
-    "title": "ثلاثة الأصول وشروط الصلاة والقواعد الأربع",
-    "author": "محمد بن عبد الوهاب",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 46,
-    "filename": "239.sqlite.zst",
-    "size_raw": 110592,
-    "size_zst": 21387,
-    "authno": 152,
-    "author_died": "1206",
-    "release": "v1.4"
-  },
-  {
     "bkid": 240,
     "title": "الشامل في الصناعة الطبية",
     "author": "ابن النفيس",
@@ -938,20 +896,6 @@
     "release": "v1.1"
   },
   {
-    "bkid": 293,
-    "title": "الدروس المهمة لعامة الأمة",
-    "author": "ابن باز",
-    "category": "بحوث ومسائل",
-    "cat_id": 139,
-    "pages": 29,
-    "filename": "293.sqlite.zst",
-    "size_raw": 57344,
-    "size_zst": 11012,
-    "authno": 67,
-    "author_died": "1420",
-    "release": "v1.1"
-  },
-  {
     "bkid": 295,
     "title": "أخبار النحويين لأبي طاهر المقرئ",
     "author": "أبو طاهر المقرئ",
@@ -1019,20 +963,6 @@
     "size_zst": 31906,
     "authno": 1173,
     "author_died": "992",
-    "release": "v1.1"
-  },
-  {
-    "bkid": 311,
-    "title": "العقيدة الصحيحة وما يضادها ونواقض الإسلام",
-    "author": "ابن باز",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 38,
-    "filename": "311.sqlite.zst",
-    "size_raw": 90112,
-    "size_zst": 17760,
-    "authno": 67,
-    "author_died": "1420",
     "release": "v1.1"
   },
   {
@@ -1201,20 +1131,6 @@
     "size_zst": 66891,
     "authno": 414,
     "author_died": "1420",
-    "release": "v1.3"
-  },
-  {
-    "bkid": 350,
-    "title": "أصول الدين الإسلامي مع قواعده الأربع",
-    "author": "محمد بن عبد الوهاب",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 41,
-    "filename": "350.sqlite.zst",
-    "size_raw": 106496,
-    "size_zst": 19617,
-    "authno": 152,
-    "author_died": "1206",
     "release": "v1.3"
   },
   {
@@ -2083,20 +1999,6 @@
     "size_zst": 4066709,
     "authno": 570,
     "author_died": "954",
-    "release": "v1.4"
-  },
-  {
-    "bkid": 572,
-    "title": "إقامة البراهين على حكم من استغاث بغير الله أو صدق الكهنة والعرافين",
-    "author": "ابن باز",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 54,
-    "filename": "572.sqlite.zst",
-    "size_raw": 122880,
-    "size_zst": 21025,
-    "authno": 67,
-    "author_died": "1420",
     "release": "v1.4"
   },
   {
@@ -5740,20 +5642,6 @@
     "release": "v1.1"
   },
   {
-    "bkid": 1395,
-    "title": "أصول الإيمان لمحمد بن عبد الوهاب - ت الجوابرة",
-    "author": "محمد بن عبد الوهاب",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 177,
-    "filename": "1395.sqlite.zst",
-    "size_raw": 421888,
-    "size_zst": 81786,
-    "authno": 152,
-    "author_died": "1206",
-    "release": "v1.1"
-  },
-  {
     "bkid": 1396,
     "title": "تحفة الأقران في ما قرئ بالتثليث من حروف القرآن",
     "author": "الرعيني، أبو جعفر",
@@ -6342,20 +6230,6 @@
     "release": "v1.1"
   },
   {
-    "bkid": 1467,
-    "title": "الكبائر لمحمد بن عبد الوهاب ت الجوابرة",
-    "author": "محمد بن عبد الوهاب",
-    "category": "بحوث ومسائل",
-    "cat_id": 139,
-    "pages": 212,
-    "filename": "1467.sqlite.zst",
-    "size_raw": 524288,
-    "size_zst": 102546,
-    "authno": 152,
-    "author_died": "1206",
-    "release": "v1.1"
-  },
-  {
     "bkid": 1469,
     "title": "الأصل الجامع لإيضاح الدرر المنظومة في سلك جمع الجوامع",
     "author": "حسن السيناوني",
@@ -6731,20 +6605,6 @@
     "size_zst": 131217,
     "authno": 26,
     "author_died": "224",
-    "release": "v1.3"
-  },
-  {
-    "bkid": 1537,
-    "title": "تفسير العثيمين: الفاتحة والبقرة",
-    "author": "ابن عثيمين",
-    "category": "التفاسير",
-    "cat_id": 127,
-    "pages": 1345,
-    "filename": "1537.sqlite.zst",
-    "size_raw": 4657152,
-    "size_zst": 672213,
-    "authno": 57,
-    "author_died": "1421",
     "release": "v1.3"
   },
   {
@@ -7140,20 +7000,6 @@
     "release": "v1.3"
   },
   {
-    "bkid": 1602,
-    "title": "إرشاد أولى البصائر والألباب لنيل الفقة بأقرب الطرق وأيسر الأسباب",
-    "author": "عبد الرحمن السعدي",
-    "category": "فقه عام",
-    "cat_id": 138,
-    "pages": 154,
-    "filename": "1602.sqlite.zst",
-    "size_raw": 364544,
-    "size_zst": 70853,
-    "authno": 128,
-    "author_died": "1376",
-    "release": "v1.3"
-  },
-  {
     "bkid": 1611,
     "title": "الفتاوى الاقتصادية",
     "author": "مجموعة من المؤلفين",
@@ -7305,20 +7151,6 @@
     "size_zst": 1585895,
     "authno": 883,
     "author_died": "170",
-    "release": "v1.3"
-  },
-  {
-    "bkid": 1685,
-    "title": "مختصر الإنصاف والشرح الكبير (مطبوع ضمن مجموعة مؤلفات الشيخ محمد بن عبد الوهاب، الجزء الثاني)",
-    "author": "محمد بن عبد الوهاب",
-    "category": "فقه حنبلي",
-    "cat_id": 137,
-    "pages": 781,
-    "filename": "1685.sqlite.zst",
-    "size_raw": 2809856,
-    "size_zst": 455066,
-    "authno": 152,
-    "author_died": "1206",
     "release": "v1.3"
   },
   {
@@ -7756,20 +7588,6 @@
     "release": "v1.3"
   },
   {
-    "bkid": 1784,
-    "title": "الانتصار للصحابة الأخيار في رد أباطيل حسن المالكي",
-    "author": "عبد المحسن العباد",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 144,
-    "filename": "1784.sqlite.zst",
-    "size_raw": 577536,
-    "size_zst": 87951,
-    "authno": 185,
-    "author_died": "معاصر",
-    "release": "v1.3"
-  },
-  {
     "bkid": 1787,
     "title": "أيسر التفاسير لأسعد حومد",
     "author": "أسعد حومد",
@@ -7921,20 +7739,6 @@
     "size_zst": 33188,
     "authno": 923,
     "author_died": "",
-    "release": "v1.3"
-  },
-  {
-    "bkid": 1866,
-    "title": "الاعتدال في الدعوة",
-    "author": "ابن عثيمين",
-    "category": "الدعوة وأحوال المسلمين - مرقم آليا",
-    "cat_id": 106,
-    "pages": 25,
-    "filename": "1866.sqlite.zst",
-    "size_raw": 53248,
-    "size_zst": 9666,
-    "authno": 57,
-    "author_died": "1421",
     "release": "v1.3"
   },
   {
@@ -9562,20 +9366,6 @@
     "release": "v1.3"
   },
   {
-    "bkid": 2300,
-    "title": "فتاوى نور على الدرب للعثيمين",
-    "author": "ابن عثيمين",
-    "category": "الفتاوى - مرقم آليا",
-    "cat_id": 378,
-    "pages": 7495,
-    "filename": "2300.sqlite.zst",
-    "size_raw": 21827584,
-    "size_zst": 3746669,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.4"
-  },
-  {
     "bkid": 2305,
     "title": "التفسير الوسيط للزحيلي",
     "author": "وهبة الزحيلي",
@@ -9615,20 +9405,6 @@
     "size_zst": 437597,
     "authno": 1073,
     "author_died": "1233",
-    "release": "v1.4"
-  },
-  {
-    "bkid": 2386,
-    "title": "فتح المجيد شرح كتاب التوحيد",
-    "author": "عبد الرحمن بن حسن آل الشيخ",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 555,
-    "filename": "2386.sqlite.zst",
-    "size_raw": 2183168,
-    "size_zst": 420658,
-    "authno": 172,
-    "author_died": "1285",
     "release": "v1.4"
   },
   {
@@ -10822,20 +10598,6 @@
     "release": "v1.3"
   },
   {
-    "bkid": 3939,
-    "title": "عشرون حديثا من صحيح البخاري دراسة اسانيدها وشرح متونها",
-    "author": "عبد المحسن العباد",
-    "category": "شروح الحديث",
-    "cat_id": 108,
-    "pages": 308,
-    "filename": "3939.sqlite.zst",
-    "size_raw": 880640,
-    "size_zst": 133571,
-    "authno": 185,
-    "author_died": "معاصر",
-    "release": "v1.3"
-  },
-  {
     "bkid": 3940,
     "title": "نظم اختيارات شيخ الإسلام ابن تيمية",
     "author": "سليمان بن سحمان",
@@ -11225,20 +10987,6 @@
     "size_zst": 9492,
     "authno": 2183,
     "author_died": null,
-    "release": "v1.3"
-  },
-  {
-    "bkid": 4226,
-    "title": "عقيدة أهل السنة والأثر في المهدي المنتظر",
-    "author": "عبد المحسن العباد",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 39,
-    "filename": "4226.sqlite.zst",
-    "size_raw": 172032,
-    "size_zst": 33520,
-    "authno": 185,
-    "author_died": "معاصر",
     "release": "v1.3"
   },
   {
@@ -11760,20 +11508,6 @@
     "release": "v1.3"
   },
   {
-    "bkid": 5056,
-    "title": "معنى لا إله إلا الله ومقتضاها وآثارها في الفرد والمجتمع",
-    "author": "صالح الفوزان",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 45,
-    "filename": "5056.sqlite.zst",
-    "size_raw": 98304,
-    "size_zst": 19183,
-    "authno": 62,
-    "author_died": "معاصر",
-    "release": "v1.3"
-  },
-  {
     "bkid": 5064,
     "title": "مشاكل الدعوة والدعاة في العصر الحديث",
     "author": "محمد أمان الجامي",
@@ -11813,34 +11547,6 @@
     "size_zst": 13710,
     "authno": 593,
     "author_died": "1407",
-    "release": "v1.3"
-  },
-  {
-    "bkid": 5143,
-    "title": "عقيدة أهل السنة والجماعة للعثيمين",
-    "author": "ابن عثيمين",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 35,
-    "filename": "5143.sqlite.zst",
-    "size_raw": 118784,
-    "size_zst": 20826,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.3"
-  },
-  {
-    "bkid": 5165,
-    "title": "منهج التشريع الإسلامي وحكمته",
-    "author": "الشنقيطي، محمد الأمين",
-    "category": "أصول الفقه والقواعد الفقهية",
-    "cat_id": 133,
-    "pages": 26,
-    "filename": "5165.sqlite.zst",
-    "size_raw": 118784,
-    "size_zst": 22977,
-    "authno": 114,
-    "author_died": "1393",
     "release": "v1.3"
   },
   {
@@ -12275,20 +11981,6 @@
     "size_zst": 31470,
     "authno": 1234,
     "author_died": "1120",
-    "release": "v1.4"
-  },
-  {
-    "bkid": 5412,
-    "title": "حكم السحر والكهانة وما يتعلق بها",
-    "author": "ابن باز",
-    "category": "بحوث ومسائل",
-    "cat_id": 139,
-    "pages": 57,
-    "filename": "5412.sqlite.zst",
-    "size_raw": 90112,
-    "size_zst": 18019,
-    "authno": 67,
-    "author_died": "1420",
     "release": "v1.4"
   },
   {
@@ -17318,20 +17010,6 @@
     "release": "v1.4"
   },
   {
-    "bkid": 6394,
-    "title": "فتاوى مهمة لعموم الأمة",
-    "author": "ابن باز",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 161,
-    "filename": "6394.sqlite.zst",
-    "size_raw": 360448,
-    "size_zst": 65166,
-    "authno": 67,
-    "author_died": "1420",
-    "release": "v1.4"
-  },
-  {
     "bkid": 6397,
     "title": "قواعد العقائد",
     "author": "أبو حامد الغزالي",
@@ -17525,20 +17203,6 @@
     "size_zst": 198503,
     "authno": 1708,
     "author_died": "769",
-    "release": "v1.4"
-  },
-  {
-    "bkid": 6452,
-    "title": "منهج ودراسات لآيات الأسماء والصفات",
-    "author": "الشنقيطي، محمد الأمين",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 44,
-    "filename": "6452.sqlite.zst",
-    "size_raw": 159744,
-    "size_zst": 22605,
-    "authno": 114,
-    "author_died": "1393",
     "release": "v1.4"
   },
   {
@@ -22274,20 +21938,6 @@
     "release": "v1.5"
   },
   {
-    "bkid": 7339,
-    "title": "القول المفيد على كتاب التوحيد",
-    "author": "ابن عثيمين",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 1122,
-    "filename": "7339.sqlite.zst",
-    "size_raw": 3940352,
-    "size_zst": 574269,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.5"
-  },
-  {
     "bkid": 7340,
     "title": "الكنى والأسماء للإمام مسلم",
     "author": "مسلم",
@@ -22890,20 +22540,6 @@
     "release": "v1.5"
   },
   {
-    "bkid": 7470,
-    "title": "60 سؤال وجواب في أحكام الحيض",
-    "author": "ابن عثيمين",
-    "category": "بحوث ومسائل",
-    "cat_id": 139,
-    "pages": 32,
-    "filename": "7470.sqlite.zst",
-    "size_raw": 94208,
-    "size_zst": 16883,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.5"
-  },
-  {
     "bkid": 7472,
     "title": "أبو بكر الصديق أول الخلفاء الراشدين ت شيحا",
     "author": "محمد رضا",
@@ -22988,20 +22624,6 @@
     "release": "v1.5"
   },
   {
-    "bkid": 7481,
-    "title": "أثر العبادات في حياة المسلم",
-    "author": "عبد المحسن العباد",
-    "category": "الرقاق والآداب والأذكار",
-    "cat_id": 113,
-    "pages": 29,
-    "filename": "7481.sqlite.zst",
-    "size_raw": 57344,
-    "size_zst": 11500,
-    "authno": 185,
-    "author_died": "معاصر",
-    "release": "v1.5"
-  },
-  {
     "bkid": 7482,
     "title": "أثر دعوة الشيخ محمد بن عبد الوهاب في حركة عثمان بن فودي الإصلاحية في غرب أفريقيا (مطبوع ضمن بحوث ندوة دعوة الشيخ محمد بن عبد الوهاب)",
     "author": "مصطفى مسعد",
@@ -23016,34 +22638,6 @@
     "release": "v1.5"
   },
   {
-    "bkid": 7485,
-    "title": "أحاديث في الفتن والحوادث (مطبوع ضمن مؤلفات الشيخ محمد بن عبدالوهاب، الجزء الحادي عشر)",
-    "author": "محمد بن عبد الوهاب",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 258,
-    "filename": "7485.sqlite.zst",
-    "size_raw": 557056,
-    "size_zst": 115943,
-    "authno": 152,
-    "author_died": "1206",
-    "release": "v1.5"
-  },
-  {
-    "bkid": 7486,
-    "title": "أحاديث في الفتن والحوادث ط القاسم",
-    "author": "محمد بن عبد الوهاب",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 95,
-    "filename": "7486.sqlite.zst",
-    "size_raw": 303104,
-    "size_zst": 49902,
-    "authno": 152,
-    "author_died": "1206",
-    "release": "v1.5"
-  },
-  {
     "bkid": 7487,
     "title": "احتساب الشيخ محمد بن عبد الوهاب (رحمه الله)",
     "author": "مرفت بنت كامل بن عبد الله أسرة",
@@ -23055,34 +22649,6 @@
     "size_zst": 292410,
     "authno": 1507,
     "author_died": null,
-    "release": "v1.5"
-  },
-  {
-    "bkid": 7488,
-    "title": "أحكام الصلاة (مطبوع ضمن مؤلفات الشيخ محمد بن عبد الوهاب، الجزء الثالث)",
-    "author": "محمد بن عبد الوهاب",
-    "category": "بحوث ومسائل",
-    "cat_id": 139,
-    "pages": 2,
-    "filename": "7488.sqlite.zst",
-    "size_raw": 12288,
-    "size_zst": 1336,
-    "authno": 152,
-    "author_died": "1206",
-    "release": "v1.5"
-  },
-  {
-    "bkid": 7489,
-    "title": "أحكام تمني الموت (مطبوع ضمن مؤلفات الشيخ محمد بن عبد الوهاب، الجزء الثالث)",
-    "author": "محمد بن عبد الوهاب",
-    "category": "بحوث ومسائل",
-    "cat_id": 139,
-    "pages": 76,
-    "filename": "7489.sqlite.zst",
-    "size_raw": 270336,
-    "size_zst": 44476,
-    "authno": 152,
-    "author_died": "1206",
     "release": "v1.5"
   },
   {
@@ -23142,20 +22708,6 @@
     "release": "v1.5"
   },
   {
-    "bkid": 7495,
-    "title": "آداب المشي إلى الصلاة (مطبوع ضمن مؤلفات الشيخ محمد بن عبد الوهاب، الجزء الثالث)",
-    "author": "محمد بن عبد الوهاب",
-    "category": "فقه حنبلي",
-    "cat_id": 137,
-    "pages": 52,
-    "filename": "7495.sqlite.zst",
-    "size_raw": 167936,
-    "size_zst": 30990,
-    "authno": 152,
-    "author_died": "1206",
-    "release": "v1.5"
-  },
-  {
     "bkid": 7496,
     "title": "أدب الموعظة",
     "author": "محمد بن إبراهيم الحمد",
@@ -23195,20 +22747,6 @@
     "size_zst": 41237,
     "authno": 936,
     "author_died": "معاصر",
-    "release": "v1.5"
-  },
-  {
-    "bkid": 7499,
-    "title": "أربع قواعد تدور الأحكام عليها ويليها نبذة في اتباع النصوص مع احترام العلماء (مطبوع ضمن مؤلفات الشيخ محمد بن عبد الوهاب، الجزء الثالث)",
-    "author": "محمد بن عبد الوهاب",
-    "category": "أصول الفقه والقواعد الفقهية",
-    "cat_id": 133,
-    "pages": 12,
-    "filename": "7499.sqlite.zst",
-    "size_raw": 61440,
-    "size_zst": 9444,
-    "authno": 152,
-    "author_died": "1206",
     "release": "v1.5"
   },
   {
@@ -23254,34 +22792,6 @@
     "release": "v1.5"
   },
   {
-    "bkid": 7503,
-    "title": "أسماء الله وصفاته وموقف أهل السنه منها",
-    "author": "ابن عثيمين",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 49,
-    "filename": "7503.sqlite.zst",
-    "size_raw": 94208,
-    "size_zst": 18610,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.5"
-  },
-  {
-    "bkid": 7504,
-    "title": "أصول الإيمان لمحمد بن عبد الوهاب - ضمن مجموع مؤلفاته",
-    "author": "محمد بن عبد الوهاب",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 47,
-    "filename": "7504.sqlite.zst",
-    "size_raw": 151552,
-    "size_zst": 26592,
-    "authno": 152,
-    "author_died": "1206",
-    "release": "v1.5"
-  },
-  {
     "bkid": 7506,
     "title": "اعتقاد أئمة السلف أهل الحديث",
     "author": "محمد بن عبد الرحمن الخميس",
@@ -23293,20 +22803,6 @@
     "size_zst": 191896,
     "authno": 28,
     "author_died": "معاصر",
-    "release": "v1.5"
-  },
-  {
-    "bkid": 7507,
-    "title": "اعتماد دعوة الشيخ محمد بن عبد الوهاب على الكتاب والسنة - صالح الأطرم",
-    "author": "صالح بن عبد الرحمن الأطرم",
-    "category": "التراجم والطبقات",
-    "cat_id": 146,
-    "pages": 132,
-    "filename": "7507.sqlite.zst",
-    "size_raw": 389120,
-    "size_zst": 70122,
-    "authno": 1523,
-    "author_died": "1428",
     "release": "v1.5"
   },
   {
@@ -23335,20 +22831,6 @@
     "size_zst": 300005,
     "authno": 28,
     "author_died": "معاصر",
-    "release": "v1.5"
-  },
-  {
-    "bkid": 7510,
-    "title": "اعتماد دعوة الشيخ محمد بن عبد الوهاب على الكتاب والسنة - عبد العزيز آل الشيخ",
-    "author": "عبد العزيز بن محمد آل الشيخ",
-    "category": "التراجم والطبقات",
-    "cat_id": 146,
-    "pages": 16,
-    "filename": "7510.sqlite.zst",
-    "size_raw": 73728,
-    "size_zst": 14663,
-    "authno": 1524,
-    "author_died": "1426",
     "release": "v1.5"
   },
   {
@@ -23391,20 +22873,6 @@
     "size_zst": 23425,
     "authno": 14,
     "author_died": "751",
-    "release": "v1.5"
-  },
-  {
-    "bkid": 7514,
-    "title": "أغلو في بعض القرابة وجفاء في الأنبياء والصحابة",
-    "author": "عبد المحسن العباد",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 45,
-    "filename": "7514.sqlite.zst",
-    "size_raw": 86016,
-    "size_zst": 17567,
-    "authno": 185,
-    "author_died": "معاصر",
     "release": "v1.5"
   },
   {
@@ -23517,20 +22985,6 @@
     "size_zst": 58412,
     "authno": 794,
     "author_died": "142",
-    "release": "v1.5"
-  },
-  {
-    "bkid": 7529,
-    "title": "الإرشاد إلى صحيح الاعتقاد والرد على أهل الشرك والإلحاد",
-    "author": "صالح الفوزان",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 376,
-    "filename": "7529.sqlite.zst",
-    "size_raw": 1216512,
-    "size_zst": 201656,
-    "authno": 62,
-    "author_died": "معاصر",
     "release": "v1.5"
   },
   {
@@ -23674,34 +23128,6 @@
     "release": "v1.5"
   },
   {
-    "bkid": 7543,
-    "title": "الأضرار الناجمة عن تعاطي المسكرات والمخدرات",
-    "author": "عبد الكريم بن صنيتان العمري",
-    "category": "بحوث ومسائل",
-    "cat_id": 139,
-    "pages": 52,
-    "filename": "7543.sqlite.zst",
-    "size_raw": 102400,
-    "size_zst": 21685,
-    "authno": 1526,
-    "author_died": "معاصر",
-    "release": "v1.5"
-  },
-  {
-    "bkid": 7545,
-    "title": "الأعياد وأثرها على المسلمين",
-    "author": "سليمان بن سالم السحيمي",
-    "category": "بحوث ومسائل",
-    "cat_id": 139,
-    "pages": 441,
-    "filename": "7545.sqlite.zst",
-    "size_raw": 1249280,
-    "size_zst": 212146,
-    "authno": 1527,
-    "author_died": "",
-    "release": "v1.5"
-  },
-  {
     "bkid": 7546,
     "title": "الاقتصاد في الاعتقاد للمقدسي",
     "author": "المقدسي، عبد الغني",
@@ -23713,20 +23139,6 @@
     "size_zst": 100055,
     "authno": 254,
     "author_died": "600",
-    "release": "v1.5"
-  },
-  {
-    "bkid": 7547,
-    "title": "الألفاظ والمصطلحات المتعلقة بتوحيد الربوبية",
-    "author": "آمال بنت عبد العزيز العمرو",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 498,
-    "filename": "7547.sqlite.zst",
-    "size_raw": 1720320,
-    "size_zst": 282784,
-    "authno": 1528,
-    "author_died": "",
     "release": "v1.5"
   },
   {
@@ -23755,34 +23167,6 @@
     "size_zst": 11124,
     "authno": 1375,
     "author_died": "1419",
-    "release": "v1.5"
-  },
-  {
-    "bkid": 7553,
-    "title": "الانتصار لأهل السنة والحديث في رد أباطيل حسن المالكي",
-    "author": "عبد المحسن العباد",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 236,
-    "filename": "7553.sqlite.zst",
-    "size_raw": 835584,
-    "size_zst": 134243,
-    "authno": 185,
-    "author_died": "معاصر",
-    "release": "v1.5"
-  },
-  {
-    "bkid": 7554,
-    "title": "الانتصار لحزب الله الموحدين والرد على المجادل عن المشركين",
-    "author": "عبد الله أبا بطين",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 89,
-    "filename": "7554.sqlite.zst",
-    "size_raw": 319488,
-    "size_zst": 54504,
-    "authno": 47,
-    "author_died": "1282",
     "release": "v1.5"
   },
   {
@@ -24038,20 +23422,6 @@
     "release": "v1.5"
   },
   {
-    "bkid": 7574,
-    "title": "التحذير من تعظيم الآثار غير المشروعة",
-    "author": "عبد المحسن العباد",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 45,
-    "filename": "7574.sqlite.zst",
-    "size_raw": 77824,
-    "size_zst": 16977,
-    "authno": 185,
-    "author_died": "معاصر",
-    "release": "v1.5"
-  },
-  {
     "bkid": 7575,
     "title": "التحفة السنية شرح منظومة ابن أبي داود الحائية",
     "author": "عبد الرزاق بن عبد المحسن البدر",
@@ -24290,20 +23660,6 @@
     "release": "v1.5"
   },
   {
-    "bkid": 7603,
-    "title": "الجواهر المضية",
-    "author": "محمد بن عبد الوهاب",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 49,
-    "filename": "7603.sqlite.zst",
-    "size_raw": 196608,
-    "size_zst": 38394,
-    "authno": 152,
-    "author_died": "1206",
-    "release": "v1.5"
-  },
-  {
     "bkid": 7604,
     "title": "الحبة السوداء في الحديث النبوي والطب الحديث",
     "author": "عبد الله بن عمر با موسى",
@@ -24315,20 +23671,6 @@
     "size_zst": 23064,
     "authno": 1542,
     "author_died": "",
-    "release": "v1.5"
-  },
-  {
-    "bkid": 7605,
-    "title": "الحث على اتباع السنة والتحذير من البدع وبيان خطرها",
-    "author": "عبد المحسن العباد",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 75,
-    "filename": "7605.sqlite.zst",
-    "size_raw": 122880,
-    "size_zst": 25743,
-    "authno": 185,
-    "author_died": "معاصر",
     "release": "v1.5"
   },
   {
@@ -24416,48 +23758,6 @@
     "release": "v1.5"
   },
   {
-    "bkid": 7612,
-    "title": "الخطب المنبرية (مطبوع ضمن مؤلفات الشيخ محمد بن عبد الوهاب، الجزء الثاني عشر)",
-    "author": "محمد بن عبد الوهاب",
-    "category": "الرقاق والآداب والأذكار",
-    "cat_id": 113,
-    "pages": 62,
-    "filename": "7612.sqlite.zst",
-    "size_raw": 266240,
-    "size_zst": 38036,
-    "authno": 152,
-    "author_died": "1206",
-    "release": "v1.5"
-  },
-  {
-    "bkid": 7613,
-    "title": "الخلاف بين العلماء",
-    "author": "ابن عثيمين",
-    "category": "أصول الفقه والقواعد الفقهية",
-    "cat_id": 133,
-    "pages": 37,
-    "filename": "7613.sqlite.zst",
-    "size_raw": 65536,
-    "size_zst": 14143,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.5"
-  },
-  {
-    "bkid": 7614,
-    "title": "الدرة البهية شرح القصيدة التائية في حل المشكلة القدرية",
-    "author": "عبد الرحمن السعدي",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 106,
-    "filename": "7614.sqlite.zst",
-    "size_raw": 204800,
-    "size_zst": 43045,
-    "authno": 128,
-    "author_died": "1376",
-    "release": "v1.5"
-  },
-  {
     "bkid": 7615,
     "title": "الدعوة الإصلاحية في بلاد نجد على يد الإمام محمد بن عبد الوهاب وأعلامها من بعده",
     "author": "عبد الله المطوع",
@@ -24486,20 +23786,6 @@
     "release": "v1.5"
   },
   {
-    "bkid": 7617,
-    "title": "الدفاع عن الصحابي أبي بكرة ومروياته والاستدلال لمنع ولاية النساء على الرجال",
-    "author": "عبد المحسن العباد",
-    "category": "بحوث ومسائل",
-    "cat_id": 139,
-    "pages": 56,
-    "filename": "7617.sqlite.zst",
-    "size_raw": 110592,
-    "size_zst": 20313,
-    "authno": 185,
-    "author_died": "معاصر",
-    "release": "v1.5"
-  },
-  {
     "bkid": 7618,
     "title": "الذكر الجماعي بين الاتباع والابتداع",
     "author": "محمد بن عبد الرحمن الخميس",
@@ -24514,20 +23800,6 @@
     "release": "v1.5"
   },
   {
-    "bkid": 7620,
-    "title": "الرد على البردة",
-    "author": "عبد الله أبا بطين",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 57,
-    "filename": "7620.sqlite.zst",
-    "size_raw": 212992,
-    "size_zst": 37977,
-    "authno": 47,
-    "author_died": "1282",
-    "release": "v1.5"
-  },
-  {
     "bkid": 7623,
     "title": "الرد على الجهمية والزنادقة",
     "author": "أحمد بن حنبل",
@@ -24539,20 +23811,6 @@
     "size_zst": 99373,
     "authno": 220,
     "author_died": "241",
-    "release": "v1.5"
-  },
-  {
-    "bkid": 7624,
-    "title": "الرد على الرفاعي والبوطي في كذبهما على أهل السنة ودعوتهما إلى البدع والضلال",
-    "author": "عبد المحسن العباد",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 144,
-    "filename": "7624.sqlite.zst",
-    "size_raw": 290816,
-    "size_zst": 59532,
-    "authno": 185,
-    "author_died": "معاصر",
     "release": "v1.5"
   },
   {
@@ -24595,20 +23853,6 @@
     "size_zst": 38721,
     "authno": 2018,
     "author_died": "",
-    "release": "v1.5"
-  },
-  {
-    "bkid": 7629,
-    "title": "الرسائل الشخصية (مطبوع ضمن مؤلفات الشيخ محمد بن عبدالوهاب، الجزء السادس)",
-    "author": "محمد بن عبد الوهاب",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 230,
-    "filename": "7629.sqlite.zst",
-    "size_raw": 819200,
-    "size_zst": 130917,
-    "authno": 152,
-    "author_died": "1206",
     "release": "v1.5"
   },
   {
@@ -24679,34 +23923,6 @@
     "size_zst": 92283,
     "authno": 320,
     "author_died": "1345",
-    "release": "v1.5"
-  },
-  {
-    "bkid": 7637,
-    "title": "الرسالة المفيدة",
-    "author": "محمد بن عبد الوهاب",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 15,
-    "filename": "7637.sqlite.zst",
-    "size_raw": 28672,
-    "size_zst": 4574,
-    "authno": 152,
-    "author_died": "1206",
-    "release": "v1.5"
-  },
-  {
-    "bkid": 7639,
-    "title": "الزواج",
-    "author": "ابن عثيمين",
-    "category": "بحوث ومسائل",
-    "cat_id": 139,
-    "pages": 44,
-    "filename": "7639.sqlite.zst",
-    "size_raw": 77824,
-    "size_zst": 16618,
-    "authno": 57,
-    "author_died": "1421",
     "release": "v1.5"
   },
   {
@@ -24850,34 +24066,6 @@
     "release": "v1.5"
   },
   {
-    "bkid": 7652,
-    "title": "الشيخ عبد العزيز بن باز رحمه الله نموذج من الرعيل الأول",
-    "author": "عبد المحسن العباد",
-    "category": "الرقاق والآداب والأذكار",
-    "cat_id": 113,
-    "pages": 36,
-    "filename": "7652.sqlite.zst",
-    "size_raw": 65536,
-    "size_zst": 13629,
-    "authno": 185,
-    "author_died": "معاصر",
-    "release": "v1.5"
-  },
-  {
-    "bkid": 7653,
-    "title": "الشيخ عمر بن محمد فلاته رحمه الله وكيف عرفته",
-    "author": "عبد المحسن العباد",
-    "category": "الرقاق والآداب والأذكار",
-    "cat_id": 113,
-    "pages": 20,
-    "filename": "7653.sqlite.zst",
-    "size_raw": 40960,
-    "size_zst": 7816,
-    "authno": 185,
-    "author_died": "معاصر",
-    "release": "v1.5"
-  },
-  {
     "bkid": 7654,
     "title": "الشيخ محمد بن عبد الوهاب المجدد المفترى عليه",
     "author": "أحمد بن حجر آل بوطامي",
@@ -24903,20 +24091,6 @@
     "size_zst": 172907,
     "authno": 2027,
     "author_died": null,
-    "release": "v1.5"
-  },
-  {
-    "bkid": 7659,
-    "title": "الشيخ محمد بن عثيمين من العلماء الربانيين",
-    "author": "عبد المحسن العباد",
-    "category": "الرقاق والآداب والأذكار",
-    "cat_id": 113,
-    "pages": 26,
-    "filename": "7659.sqlite.zst",
-    "size_raw": 49152,
-    "size_zst": 9917,
-    "authno": 185,
-    "author_died": "معاصر",
     "release": "v1.5"
   },
   {
@@ -25032,34 +24206,6 @@
     "release": "v1.5"
   },
   {
-    "bkid": 7679,
-    "title": "جلسات رمضانية للعثيمين",
-    "author": "ابن عثيمين",
-    "category": "فقه عام - مرقم آليا",
-    "cat_id": 92,
-    "pages": 477,
-    "filename": "7679.sqlite.zst",
-    "size_raw": 1372160,
-    "size_zst": 274774,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.5"
-  },
-  {
-    "bkid": 7680,
-    "title": "دروس للشيخ عبد العزيز بن باز",
-    "author": "ابن باز",
-    "category": "محاضرات مفرغة",
-    "cat_id": 155,
-    "pages": 499,
-    "filename": "7680.sqlite.zst",
-    "size_raw": 1597440,
-    "size_zst": 303752,
-    "authno": 67,
-    "author_died": "1420",
-    "release": "v1.5"
-  },
-  {
     "bkid": 7682,
     "title": "دروس للشيخ الألباني",
     "author": "ناصر الدين الألباني",
@@ -25071,48 +24217,6 @@
     "size_zst": 523164,
     "authno": 414,
     "author_died": "1420",
-    "release": "v1.5"
-  },
-  {
-    "bkid": 7686,
-    "title": "اللقاء الشهري",
-    "author": "ابن عثيمين",
-    "category": "فقه عام - مرقم آليا",
-    "cat_id": 92,
-    "pages": 2259,
-    "filename": "7686.sqlite.zst",
-    "size_raw": 6017024,
-    "size_zst": 1174891,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.5"
-  },
-  {
-    "bkid": 7687,
-    "title": "لقاء الباب المفتوح",
-    "author": "ابن عثيمين",
-    "category": "فقه عام - مرقم آليا",
-    "cat_id": 92,
-    "pages": 6569,
-    "filename": "7687.sqlite.zst",
-    "size_raw": 14532608,
-    "size_zst": 2819644,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.5"
-  },
-  {
-    "bkid": 7688,
-    "title": "دروس الحرم المدني للعثيمين",
-    "author": "ابن عثيمين",
-    "category": "فقه عام - مرقم آليا",
-    "cat_id": 92,
-    "pages": 172,
-    "filename": "7688.sqlite.zst",
-    "size_raw": 565248,
-    "size_zst": 118735,
-    "authno": 57,
-    "author_died": "1421",
     "release": "v1.5"
   },
   {
@@ -25939,20 +25043,6 @@
     "size_zst": 18539,
     "authno": 273,
     "author_died": "281",
-    "release": "v1.5"
-  },
-  {
-    "bkid": 8137,
-    "title": "مسائل الجاهلية",
-    "author": "محمد بن عبد الوهاب",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 123,
-    "filename": "8137.sqlite.zst",
-    "size_raw": 53248,
-    "size_zst": 10161,
-    "authno": 152,
-    "author_died": "1206",
     "release": "v1.5"
   },
   {
@@ -27566,20 +26656,6 @@
     "release": "v1.5"
   },
   {
-    "bkid": 8380,
-    "title": "فتاوى نور على الدرب لابن باز بعناية الطيار",
-    "author": "ابن باز",
-    "category": "الفتاوى",
-    "cat_id": 141,
-    "pages": 504,
-    "filename": "8380.sqlite.zst",
-    "size_raw": 1253376,
-    "size_zst": 183735,
-    "authno": 67,
-    "author_died": "1420",
-    "release": "v1.5"
-  },
-  {
     "bkid": 8381,
     "title": "فتاوى اللجنة الدائمة - 1",
     "author": "اللجنة الدائمة للبحوث العلمية والإفتاء",
@@ -27605,20 +26681,6 @@
     "size_zst": 54067,
     "authno": 182,
     "author_died": "معاصر",
-    "release": "v1.5"
-  },
-  {
-    "bkid": 8383,
-    "title": "الطهارة (مطبوع ضمن مؤلفات الشيخ محمد بن عبد الوهاب، الجزء الثالث)",
-    "author": "محمد بن عبد الوهاب",
-    "category": "بحوث ومسائل",
-    "cat_id": 139,
-    "pages": 51,
-    "filename": "8383.sqlite.zst",
-    "size_raw": 106496,
-    "size_zst": 22528,
-    "authno": 152,
-    "author_died": "1206",
     "release": "v1.5"
   },
   {
@@ -28014,20 +27076,6 @@
     "release": "v1.5"
   },
   {
-    "bkid": 8524,
-    "title": "القواعد الأربع (مطبوع ضمن مؤلفات الشيخ مجمد بن عبد الوهاب، الجزء الأول)",
-    "author": "محمد بن عبد الوهاب",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 4,
-    "filename": "8524.sqlite.zst",
-    "size_raw": 28672,
-    "size_zst": 3342,
-    "authno": 152,
-    "author_died": "1206",
-    "release": "v1.5"
-  },
-  {
     "bkid": 8526,
     "title": "القواعد والفوائد الأصولية ومايتبعها من الأحكام الفرعية",
     "author": "ابن اللحام",
@@ -28070,20 +27118,6 @@
     "release": "v1.5"
   },
   {
-    "bkid": 8529,
-    "title": "القول السديد شرح كتاب التوحيد ط النفائس",
-    "author": "عبد الرحمن السعدي",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 189,
-    "filename": "8529.sqlite.zst",
-    "size_raw": 552960,
-    "size_zst": 96085,
-    "authno": 128,
-    "author_died": "1376",
-    "release": "v1.5"
-  },
-  {
     "bkid": 8530,
     "title": "القول المبين في سيرة سيد المرسلين",
     "author": "محمد الطيب النجار",
@@ -28095,34 +27129,6 @@
     "size_zst": 278112,
     "authno": 1138,
     "author_died": "1411",
-    "release": "v1.5"
-  },
-  {
-    "bkid": 8531,
-    "title": "الكبائر لمحمد بن عبد الوهاب (مطبوع ضمن مؤلفات الشيخ محمد بن عبد الوهاب، الجزء الأول)",
-    "author": "محمد بن عبد الوهاب",
-    "category": "بحوث ومسائل",
-    "cat_id": 139,
-    "pages": 69,
-    "filename": "8531.sqlite.zst",
-    "size_raw": 249856,
-    "size_zst": 39572,
-    "authno": 152,
-    "author_died": "1206",
-    "release": "v1.5"
-  },
-  {
-    "bkid": 8532,
-    "title": "الكلمات النافعة في المكفرات الواقعة",
-    "author": "عبد الله بن محمد بن عبد الوهاب",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 46,
-    "filename": "8532.sqlite.zst",
-    "size_raw": 200704,
-    "size_zst": 42082,
-    "authno": 1015,
-    "author_died": "1242",
     "release": "v1.5"
   },
   {
@@ -28238,20 +27244,6 @@
     "release": "v1.5"
   },
   {
-    "bkid": 8543,
-    "title": "المداينة",
-    "author": "ابن عثيمين",
-    "category": "بحوث ومسائل",
-    "cat_id": 139,
-    "pages": 33,
-    "filename": "8543.sqlite.zst",
-    "size_raw": 57344,
-    "size_zst": 11687,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.5"
-  },
-  {
     "bkid": 8544,
     "title": "شرح ابن ماجه لمغلطاي",
     "author": "علاء الدين مغلطاي",
@@ -28364,20 +27356,6 @@
     "release": "v1.5"
   },
   {
-    "bkid": 8555,
-    "title": "المطلب الحميد في بيان مقاصد التوحيد",
-    "author": "عبد الرحمن بن حسن آل الشيخ",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 345,
-    "filename": "8555.sqlite.zst",
-    "size_raw": 1167360,
-    "size_zst": 198981,
-    "authno": 172,
-    "author_died": "1285",
-    "release": "v1.5"
-  },
-  {
     "bkid": 8556,
     "title": "المطلق والمقيد",
     "author": "حمد بن حمدي الصاعدي",
@@ -28434,20 +27412,6 @@
     "release": "v1.5"
   },
   {
-    "bkid": 8561,
-    "title": "مقامات عبد الرحمن بن حسن",
-    "author": "عبد الرحمن بن حسن آل الشيخ",
-    "category": "التراجم والطبقات",
-    "cat_id": 146,
-    "pages": 36,
-    "filename": "8561.sqlite.zst",
-    "size_raw": 110592,
-    "size_zst": 20949,
-    "authno": 172,
-    "author_died": "1285",
-    "release": "v1.5"
-  },
-  {
     "bkid": 8562,
     "title": "المقترب في بيان المضطرب",
     "author": "أحمد بن عمر بازمول",
@@ -28487,20 +27451,6 @@
     "size_zst": 95515,
     "authno": 738,
     "author_died": null,
-    "release": "v1.5"
-  },
-  {
-    "bkid": 8565,
-    "title": "إعانة المستفيد بشرح كتاب التوحيد",
-    "author": "صالح الفوزان",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 705,
-    "filename": "8565.sqlite.zst",
-    "size_raw": 2875392,
-    "size_zst": 493352,
-    "authno": 62,
-    "author_died": "معاصر",
     "release": "v1.5"
   },
   {
@@ -28557,20 +27507,6 @@
     "size_zst": 211945,
     "authno": 1107,
     "author_died": "1417",
-    "release": "v1.5"
-  },
-  {
-    "bkid": 8571,
-    "title": "المورد العذب الزلال في كشف شبه أهل الضلال (مطبوع ضمن الرسائل والمسائل النجية، الجزء الرابع، القسم الأول)",
-    "author": "عبد الرحمن بن حسن آل الشيخ",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 31,
-    "filename": "8571.sqlite.zst",
-    "size_raw": 143360,
-    "size_zst": 28536,
-    "authno": 172,
-    "author_died": "1285",
     "release": "v1.5"
   },
   {
@@ -28686,20 +27622,6 @@
     "release": "v1.5"
   },
   {
-    "bkid": 8589,
-    "title": "التوضيح والبيان لشجرة الإيمان",
-    "author": "عبد الرحمن السعدي",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 72,
-    "filename": "8589.sqlite.zst",
-    "size_raw": 176128,
-    "size_zst": 32178,
-    "authno": 128,
-    "author_died": "1376",
-    "release": "v1.5"
-  },
-  {
     "bkid": 8590,
     "title": "الحوادث والبدع",
     "author": "أبو بكر الطرطوشي",
@@ -28742,34 +27664,6 @@
     "release": "v1.5"
   },
   {
-    "bkid": 8599,
-    "title": "رسالة في حكم السحر والكهانة مع بعض الفتاوى المهمة",
-    "author": "ابن باز",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 14,
-    "filename": "8599.sqlite.zst",
-    "size_raw": 49152,
-    "size_zst": 7913,
-    "authno": 67,
-    "author_died": "1420",
-    "release": "v1.5"
-  },
-  {
-    "bkid": 8600,
-    "title": "شرح ثلاثة الأصول لصالح الفوزان",
-    "author": "صالح الفوزان",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 304,
-    "filename": "8600.sqlite.zst",
-    "size_raw": 634880,
-    "size_zst": 121016,
-    "authno": 62,
-    "author_died": "معاصر",
-    "release": "v1.5"
-  },
-  {
     "bkid": 8601,
     "title": "شرح السنة للبربهاري",
     "author": "البربهاري",
@@ -28798,20 +27692,6 @@
     "release": "v1.5"
   },
   {
-    "bkid": 8605,
-    "title": "شرح عقيدة الإمام المجدد محمد بن عبد الوهاب",
-    "author": "صالح الفوزان",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 146,
-    "filename": "8605.sqlite.zst",
-    "size_raw": 471040,
-    "size_zst": 76567,
-    "authno": 62,
-    "author_died": "معاصر",
-    "release": "v1.5"
-  },
-  {
     "bkid": 8608,
     "title": "قواعد الأحكام في مصالح الأنام",
     "author": "ابن عبد السلام",
@@ -28837,34 +27717,6 @@
     "size_zst": 363378,
     "authno": 202,
     "author_died": "852",
-    "release": "v1.5"
-  },
-  {
-    "bkid": 8610,
-    "title": "عقيدة التوحيد وبيان ما يضادها من الشرك الأكبر والأصغر والتعطيل والبدع وغير ذلك",
-    "author": "صالح الفوزان",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 196,
-    "filename": "8610.sqlite.zst",
-    "size_raw": 462848,
-    "size_zst": 89911,
-    "authno": 62,
-    "author_died": "معاصر",
-    "release": "v1.5"
-  },
-  {
-    "bkid": 8612,
-    "title": "مجموع فتاوى فضيلة الشيخ صالح بن فوزان",
-    "author": "صالح الفوزان",
-    "category": "الفتاوى",
-    "cat_id": 141,
-    "pages": 695,
-    "filename": "8612.sqlite.zst",
-    "size_raw": 1884160,
-    "size_zst": 323848,
-    "authno": 62,
-    "author_died": "معاصر",
     "release": "v1.5"
   },
   {
@@ -29680,20 +28532,6 @@
     "release": "v1.5"
   },
   {
-    "bkid": 8736,
-    "title": "الإسلام والحركات الهدامة المعاصرة",
-    "author": "عبد المحسن العباد",
-    "category": "الدعوة وأحوال المسلمين",
-    "cat_id": 156,
-    "pages": 19,
-    "filename": "8736.sqlite.zst",
-    "size_raw": 86016,
-    "size_zst": 16610,
-    "authno": 185,
-    "author_died": "معاصر",
-    "release": "v1.5"
-  },
-  {
     "bkid": 8746,
     "title": "الإسلام والمذاهب الإشتراكية",
     "author": "محمد تقي الدين الهلالي",
@@ -29705,20 +28543,6 @@
     "size_zst": 15651,
     "authno": 593,
     "author_died": "1407",
-    "release": "v1.5"
-  },
-  {
-    "bkid": 8753,
-    "title": "الأسماء والصفات نقلا وعقلا",
-    "author": "الشنقيطي، محمد الأمين",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 22,
-    "filename": "8753.sqlite.zst",
-    "size_raw": 102400,
-    "size_zst": 18075,
-    "authno": 114,
-    "author_died": "1393",
     "release": "v1.5"
   },
   {
@@ -29775,34 +28599,6 @@
     "size_zst": 44016,
     "authno": 1600,
     "author_died": "",
-    "release": "v1.5"
-  },
-  {
-    "bkid": 8772,
-    "title": "الإمام البخاري وكتابه الجامع الصحيح",
-    "author": "عبد المحسن العباد",
-    "category": "علوم الحديث",
-    "cat_id": 126,
-    "pages": 43,
-    "filename": "8772.sqlite.zst",
-    "size_raw": 81920,
-    "size_zst": 16187,
-    "authno": 185,
-    "author_died": "معاصر",
-    "release": "v1.5"
-  },
-  {
-    "bkid": 8775,
-    "title": "الإمام مسلم وصحيحه",
-    "author": "عبد المحسن العباد",
-    "category": "علوم الحديث",
-    "cat_id": 126,
-    "pages": 40,
-    "filename": "8775.sqlite.zst",
-    "size_raw": 90112,
-    "size_zst": 16774,
-    "authno": 185,
-    "author_died": "معاصر",
     "release": "v1.5"
   },
   {
@@ -29974,20 +28770,6 @@
     "release": "v1.5"
   },
   {
-    "bkid": 8814,
-    "title": "العبرة في شهر الصوم",
-    "author": "عبد المحسن العباد",
-    "category": "بحوث ومسائل",
-    "cat_id": 139,
-    "pages": 19,
-    "filename": "8814.sqlite.zst",
-    "size_raw": 53248,
-    "size_zst": 9552,
-    "authno": 185,
-    "author_died": "معاصر",
-    "release": "v1.5"
-  },
-  {
     "bkid": 8819,
     "title": "العقل والنقل عند ابن رشد",
     "author": "محمد أمان الجامي",
@@ -29999,20 +28781,6 @@
     "size_zst": 32137,
     "authno": 69,
     "author_died": "1415",
-    "release": "v1.5"
-  },
-  {
-    "bkid": 8820,
-    "title": "العقيدة الصحيحة وما يضادها",
-    "author": "ابن باز",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 12,
-    "filename": "8820.sqlite.zst",
-    "size_raw": 65536,
-    "size_zst": 11579,
-    "authno": 67,
-    "author_died": "1420",
     "release": "v1.5"
   },
   {
@@ -30041,20 +28809,6 @@
     "size_zst": 7648,
     "authno": 817,
     "author_died": "216",
-    "release": "v1.5"
-  },
-  {
-    "bkid": 8829,
-    "title": "الغزو الفكري ووسائله",
-    "author": "ابن باز",
-    "category": "الدعوة وأحوال المسلمين",
-    "cat_id": 156,
-    "pages": 6,
-    "filename": "8829.sqlite.zst",
-    "size_raw": 36864,
-    "size_zst": 6761,
-    "authno": 67,
-    "author_died": "1420",
     "release": "v1.5"
   },
   {
@@ -30153,20 +28907,6 @@
     "size_zst": 6594,
     "authno": 118,
     "author_died": "1431",
-    "release": "v1.5"
-  },
-  {
-    "bkid": 8874,
-    "title": "القواعد المثلى في صفات الله وأسمائه الحسنى",
-    "author": "ابن عثيمين",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 114,
-    "filename": "8874.sqlite.zst",
-    "size_raw": 303104,
-    "size_zst": 51214,
-    "authno": 57,
-    "author_died": "1421",
     "release": "v1.5"
   },
   {
@@ -30352,20 +29092,6 @@
     "release": "v1.5"
   },
   {
-    "bkid": 8937,
-    "title": "المصالح المرسلة",
-    "author": "الشنقيطي، محمد الأمين",
-    "category": "أصول الفقه والقواعد الفقهية",
-    "cat_id": 133,
-    "pages": 24,
-    "filename": "8937.sqlite.zst",
-    "size_raw": 98304,
-    "size_zst": 16963,
-    "authno": 114,
-    "author_died": "1393",
-    "release": "v1.5"
-  },
-  {
     "bkid": 8938,
     "title": "المصلحة المرسلة محاولة لبسطها ونظرة فيها",
     "author": "علي جريشة",
@@ -30475,20 +29201,6 @@
     "size_zst": 17000,
     "authno": 2139,
     "author_died": null,
-    "release": "v1.5"
-  },
-  {
-    "bkid": 8958,
-    "title": "المنهج لمريد العمرة والحج",
-    "author": "ابن عثيمين",
-    "category": "بحوث ومسائل",
-    "cat_id": 139,
-    "pages": 45,
-    "filename": "8958.sqlite.zst",
-    "size_raw": 151552,
-    "size_zst": 25194,
-    "authno": 57,
-    "author_died": "1421",
     "release": "v1.5"
   },
   {
@@ -30912,20 +29624,6 @@
     "release": "v1.5"
   },
   {
-    "bkid": 9077,
-    "title": "القواعد الحسان لتفسير القرآن",
-    "author": "عبد الرحمن السعدي",
-    "category": "علوم القرآن",
-    "cat_id": 128,
-    "pages": 166,
-    "filename": "9077.sqlite.zst",
-    "size_raw": 565248,
-    "size_zst": 102029,
-    "authno": 128,
-    "author_died": "1376",
-    "release": "v1.5"
-  },
-  {
     "bkid": 9078,
     "title": "محاضرات الأدباء ومحاورات الشعراء والبلغاء",
     "author": "الراغب الأصفهاني",
@@ -31035,20 +29733,6 @@
     "size_zst": 19251,
     "authno": 1445,
     "author_died": "228",
-    "release": "v1.5"
-  },
-  {
-    "bkid": 9089,
-    "title": "الوسائل المفيدة للحياة السعيدة",
-    "author": "عبد الرحمن السعدي",
-    "category": "الرقاق والآداب والأذكار",
-    "cat_id": 113,
-    "pages": 22,
-    "filename": "9089.sqlite.zst",
-    "size_raw": 57344,
-    "size_zst": 11937,
-    "authno": 128,
-    "author_died": "1376",
     "release": "v1.5"
   },
   {
@@ -31819,20 +30503,6 @@
     "size_zst": 251944,
     "authno": 1213,
     "author_died": "1362",
-    "release": "v1.5"
-  },
-  {
-    "bkid": 9260,
-    "title": "شرح رياض الصالحين",
-    "author": "ابن عثيمين",
-    "category": "شروح الحديث",
-    "cat_id": 108,
-    "pages": 3865,
-    "filename": "9260.sqlite.zst",
-    "size_raw": 9138176,
-    "size_zst": 1550390,
-    "authno": 57,
-    "author_died": "1421",
     "release": "v1.5"
   },
   {
@@ -32858,20 +31528,6 @@
     "release": "v1.5"
   },
   {
-    "bkid": 9430,
-    "title": "التنبيهات اللطيفة على ما احتوت عليه العقيدة الواسطية من المباحث المنيفة",
-    "author": "عبد الرحمن السعدي",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 120,
-    "filename": "9430.sqlite.zst",
-    "size_raw": 282624,
-    "size_zst": 53017,
-    "authno": 128,
-    "author_died": "1376",
-    "release": "v1.5"
-  },
-  {
     "bkid": 9434,
     "title": "فضائل فاطمة لابن شاهين",
     "author": "ابن شاهين",
@@ -33121,20 +31777,6 @@
     "size_zst": 22937,
     "authno": 1292,
     "author_died": "581",
-    "release": "v1.5"
-  },
-  {
-    "bkid": 9527,
-    "title": "رسالة لطيفة جامعة في أصول الفقه المهمة",
-    "author": "عبد الرحمن السعدي",
-    "category": "أصول الفقه والقواعد الفقهية",
-    "cat_id": 133,
-    "pages": 82,
-    "filename": "9527.sqlite.zst",
-    "size_raw": 36864,
-    "size_zst": 7456,
-    "authno": 128,
-    "author_died": "1376",
     "release": "v1.5"
   },
   {
@@ -33880,20 +32522,6 @@
     "release": "v1.5"
   },
   {
-    "bkid": 9677,
-    "title": "منهج أهل السنة والجماعة في السمع والطاعة",
-    "author": "ابن باز",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 5,
-    "filename": "9677.sqlite.zst",
-    "size_raw": 20480,
-    "size_zst": 2285,
-    "authno": 67,
-    "author_died": "1420",
-    "release": "v1.5"
-  },
-  {
     "bkid": 9679,
     "title": "نصاب الاحتساب",
     "author": "السَّنَامي",
@@ -34129,20 +32757,6 @@
     "size_zst": 7087,
     "authno": 1449,
     "author_died": "749",
-    "release": "v1.5"
-  },
-  {
-    "bkid": 9725,
-    "title": "شرح العقيدة السفارينية",
-    "author": "ابن عثيمين",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 799,
-    "filename": "9725.sqlite.zst",
-    "size_raw": 2514944,
-    "size_zst": 370232,
-    "authno": 57,
-    "author_died": "1421",
     "release": "v1.5"
   },
   {
@@ -35056,20 +33670,6 @@
     "release": "v1.6"
   },
   {
-    "bkid": 9841,
-    "title": "الإيمان والرد على أهل البدع (مطبوع ضمن مجموعة الرسائل والمسائل النجدية لبعض علماء نجد الأعلام، الجزء الثاني)",
-    "author": "عبد الرحمن بن حسن آل الشيخ",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 137,
-    "filename": "9841.sqlite.zst",
-    "size_raw": 552960,
-    "size_zst": 94651,
-    "authno": 172,
-    "author_died": "1285",
-    "release": "v1.6"
-  },
-  {
     "bkid": 9842,
     "title": "التشريع الجنائي الإسلامي مقارنا بالقانون الوضعي",
     "author": "عبد القادر عودة",
@@ -35448,20 +34048,6 @@
     "release": "v1.6"
   },
   {
-    "bkid": 9885,
-    "title": "مذكرة في أصول الفقه",
-    "author": "الشنقيطي، محمد الأمين",
-    "category": "أصول الفقه والقواعد الفقهية",
-    "cat_id": 133,
-    "pages": 425,
-    "filename": "9885.sqlite.zst",
-    "size_raw": 1269760,
-    "size_zst": 216983,
-    "authno": 114,
-    "author_died": "1393",
-    "release": "v1.6"
-  },
-  {
     "bkid": 9886,
     "title": "جمهرة الأجزاء الحديثية",
     "author": "مجموعة من المؤلفين",
@@ -35501,20 +34087,6 @@
     "size_zst": 19661,
     "authno": 2148,
     "author_died": "",
-    "release": "v1.6"
-  },
-  {
-    "bkid": 9895,
-    "title": "بيان حقيقة التوحيد الذي جاءت به الرسل ودحض الشبهات التي أثيرت حوله",
-    "author": "صالح الفوزان",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 45,
-    "filename": "9895.sqlite.zst",
-    "size_raw": 106496,
-    "size_zst": 20608,
-    "authno": 62,
-    "author_died": "معاصر",
     "release": "v1.6"
   },
   {
@@ -35672,34 +34244,6 @@
     "release": "v1.6"
   },
   {
-    "bkid": 9923,
-    "title": "شرح كشف الشبهات ويليه شرح الأصول الستة",
-    "author": "ابن عثيمين",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 146,
-    "filename": "9923.sqlite.zst",
-    "size_raw": 438272,
-    "size_zst": 68334,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.6"
-  },
-  {
-    "bkid": 9924,
-    "title": "فتاوى أركان الإسلام",
-    "author": "ابن عثيمين",
-    "category": "الفتاوى",
-    "cat_id": 141,
-    "pages": 569,
-    "filename": "9924.sqlite.zst",
-    "size_raw": 1806336,
-    "size_zst": 283896,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.6"
-  },
-  {
     "bkid": 9933,
     "title": "قدم العالم وتسلسل الحوادث",
     "author": "كَامِلَةُ الكَوارِي",
@@ -35756,20 +34300,6 @@
     "release": "v1.6"
   },
   {
-    "bkid": 9942,
-    "title": "الأصول من علم الأصول",
-    "author": "ابن عثيمين",
-    "category": "أصول الفقه والقواعد الفقهية",
-    "cat_id": 133,
-    "pages": 95,
-    "filename": "9942.sqlite.zst",
-    "size_raw": 208896,
-    "size_zst": 41389,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.6"
-  },
-  {
     "bkid": 9943,
     "title": "جلاء العينين في محاكمة الأحمدين",
     "author": "ابن الألوسي",
@@ -35781,20 +34311,6 @@
     "size_zst": 414273,
     "authno": 480,
     "author_died": "1317",
-    "release": "v1.6"
-  },
-  {
-    "bkid": 9945,
-    "title": "بهجة قلوب الأبرار وقرة عيون الأخيار ط الرشد",
-    "author": "عبد الرحمن السعدي",
-    "category": "شروح الحديث",
-    "cat_id": 108,
-    "pages": 212,
-    "filename": "9945.sqlite.zst",
-    "size_raw": 712704,
-    "size_zst": 135057,
-    "authno": 128,
-    "author_died": "1376",
     "release": "v1.6"
   },
   {
@@ -35823,20 +34339,6 @@
     "size_zst": 693377,
     "authno": 1098,
     "author_died": "333",
-    "release": "v1.6"
-  },
-  {
-    "bkid": 9950,
-    "title": "الملخص في شرح كتاب التوحيد",
-    "author": "صالح الفوزان",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 434,
-    "filename": "9950.sqlite.zst",
-    "size_raw": 823296,
-    "size_zst": 152854,
-    "authno": 62,
-    "author_died": "معاصر",
     "release": "v1.6"
   },
   {
@@ -36946,20 +35448,6 @@
     "release": "v1.0"
   },
   {
-    "bkid": 10090,
-    "title": "تفسير أسماء الله الحسنى للسعدي",
-    "author": "عبد الرحمن السعدي",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 130,
-    "filename": "10090.sqlite.zst",
-    "size_raw": 356352,
-    "size_zst": 63823,
-    "authno": 128,
-    "author_died": "1376",
-    "release": "v1.0"
-  },
-  {
     "bkid": 10091,
     "title": "تفسير الكتاب العزيز وإعرابه",
     "author": "ابن أَبي الرَّبيع",
@@ -37153,20 +35641,6 @@
     "size_zst": 29192,
     "authno": 1648,
     "author_died": "",
-    "release": "v1.0"
-  },
-  {
-    "bkid": 10165,
-    "title": "حكم الإسلام فيمن زعم أن القرآن متناقض",
-    "author": "ابن باز",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 45,
-    "filename": "10165.sqlite.zst",
-    "size_raw": 196608,
-    "size_zst": 37084,
-    "authno": 67,
-    "author_died": "1420",
     "release": "v1.0"
   },
   {
@@ -38094,20 +36568,6 @@
     "release": "v1.0"
   },
   {
-    "bkid": 10418,
-    "title": "الصلاة على النبي صلى الله عليه وسلم فضلها وكيفيتها",
-    "author": "عبد المحسن العباد",
-    "category": "السيرة والشمائل",
-    "cat_id": 144,
-    "pages": 18,
-    "filename": "10418.sqlite.zst",
-    "size_raw": 69632,
-    "size_zst": 11543,
-    "authno": 185,
-    "author_died": "معاصر",
-    "release": "v1.0"
-  },
-  {
     "bkid": 10420,
     "title": "الصولي شاعرا دراسة فنية تحليلية لأهم أغراض الشعر عنده",
     "author": "أحمد جمال العمري",
@@ -38357,20 +36817,6 @@
     "size_zst": 30562,
     "authno": 1515,
     "author_died": "معاصر",
-    "release": "v1.0"
-  },
-  {
-    "bkid": 10458,
-    "title": "القول السديد شرح كتاب التوحيد ط الوزارة",
-    "author": "عبد الرحمن السعدي",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 217,
-    "filename": "10458.sqlite.zst",
-    "size_raw": 364544,
-    "size_zst": 72859,
-    "authno": 128,
-    "author_died": "1376",
     "release": "v1.0"
   },
   {
@@ -39340,20 +37786,6 @@
     "release": "v1.0"
   },
   {
-    "bkid": 10649,
-    "title": "الشرح الممتع على زاد المستقنع",
-    "author": "ابن عثيمين",
-    "category": "فقه حنبلي",
-    "cat_id": 137,
-    "pages": 6764,
-    "filename": "10649.sqlite.zst",
-    "size_raw": 22880256,
-    "size_zst": 3415760,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.0"
-  },
-  {
     "bkid": 10652,
     "title": "جامع تفاسير الأحلام = تنبيه الأفهام بتأويل الأحلام",
     "author": "المُلَّا الإحسائي",
@@ -39886,20 +38318,6 @@
     "release": "v1.0"
   },
   {
-    "bkid": 10756,
-    "title": "مجالس شهر رمضان",
-    "author": "ابن عثيمين",
-    "category": "الرقاق والآداب والأذكار",
-    "cat_id": 113,
-    "pages": 170,
-    "filename": "10756.sqlite.zst",
-    "size_raw": 675840,
-    "size_zst": 132371,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.0"
-  },
-  {
     "bkid": 10757,
     "title": "صحيح الجامع الصغير وزيادته",
     "author": "ناصر الدين الألباني",
@@ -40348,20 +38766,6 @@
     "release": "v1.0"
   },
   {
-    "bkid": 10871,
-    "title": "أهمية العناية بالتفسير والحديث والفقه",
-    "author": "عبد المحسن العباد",
-    "category": "الرقاق والآداب والأذكار",
-    "cat_id": 113,
-    "pages": 63,
-    "filename": "10871.sqlite.zst",
-    "size_raw": 94208,
-    "size_zst": 20149,
-    "authno": 185,
-    "author_died": "معاصر",
-    "release": "v1.0"
-  },
-  {
     "bkid": 10875,
     "title": "المحيط البرهاني في الفقه النعماني",
     "author": "ابن مَازَةَ",
@@ -40471,20 +38875,6 @@
     "size_zst": 106973,
     "authno": 184,
     "author_died": "795",
-    "release": "v1.0"
-  },
-  {
-    "bkid": 10901,
-    "title": "آيات متشابهات الألفاظ في القرآن الكريم وكيف التمييز بينها",
-    "author": "عبد المحسن العباد",
-    "category": "علوم القرآن",
-    "cat_id": 128,
-    "pages": 128,
-    "filename": "10901.sqlite.zst",
-    "size_raw": 364544,
-    "size_zst": 47805,
-    "authno": 185,
-    "author_died": "معاصر",
     "release": "v1.0"
   },
   {
@@ -40908,20 +39298,6 @@
     "release": "v1.0"
   },
   {
-    "bkid": 11066,
-    "title": "بأي عقل ودين يكون التفجير والتدمير جهادا؟! ويحكم ... أفيقوا يا شباب!!",
-    "author": "عبد المحسن العباد",
-    "category": "الدعوة وأحوال المسلمين",
-    "cat_id": 156,
-    "pages": 35,
-    "filename": "11066.sqlite.zst",
-    "size_raw": 73728,
-    "size_zst": 13647,
-    "authno": 185,
-    "author_died": "معاصر",
-    "release": "v1.0"
-  },
-  {
     "bkid": 11067,
     "title": "ببلوغرافيا لكتب الحديث والسنة بالغة الإنكليزية",
     "author": "صهيب بن عبد الغفار حسن",
@@ -40950,34 +39326,6 @@
     "release": "v1.0"
   },
   {
-    "bkid": 11069,
-    "title": "بحوث وفتاوى في المسح على الخفين",
-    "author": "ابن عثيمين",
-    "category": "بحوث ومسائل",
-    "cat_id": 139,
-    "pages": 55,
-    "filename": "11069.sqlite.zst",
-    "size_raw": 73728,
-    "size_zst": 13677,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.0"
-  },
-  {
-    "bkid": 11070,
-    "title": "بعض فوائد صلح الحديبية (مطبوع ضمن مؤلفات الشيخ محمد بن عبد الوهاب، الجزء الثاني عشر)",
-    "author": "محمد بن عبد الوهاب",
-    "category": "السيرة والشمائل",
-    "cat_id": 144,
-    "pages": 15,
-    "filename": "11070.sqlite.zst",
-    "size_raw": 45056,
-    "size_zst": 7047,
-    "authno": 152,
-    "author_died": "1206",
-    "release": "v1.0"
-  },
-  {
     "bkid": 11071,
     "title": "بغية المرتاد في الرد على المتفلسفة والقرامطة والباطنية",
     "author": "ابن تيمية",
@@ -40989,34 +39337,6 @@
     "size_zst": 133031,
     "authno": 54,
     "author_died": "728",
-    "release": "v1.0"
-  },
-  {
-    "bkid": 11073,
-    "title": "بيان المحجة في الرد على اللجة (مطبوع ضمن الرسائل والمسائل النجدية، الجزء الرابع، القسم الأول)",
-    "author": "عبد الرحمن بن حسن آل الشيخ",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 62,
-    "filename": "11073.sqlite.zst",
-    "size_raw": 266240,
-    "size_zst": 51745,
-    "authno": 172,
-    "author_died": "1285",
-    "release": "v1.0"
-  },
-  {
-    "bkid": 11074,
-    "title": "بيان كلمة التوحيد والرد على الكشميري عبد المحمود (مطبوع ضمن الرسائل والمسائل النجدية، الجزء الرابع، القسم الأول)",
-    "author": "عبد الرحمن بن حسن آل الشيخ",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 45,
-    "filename": "11074.sqlite.zst",
-    "size_raw": 192512,
-    "size_zst": 35344,
-    "authno": 172,
-    "author_died": "1285",
     "release": "v1.0"
   },
   {
@@ -41059,20 +39379,6 @@
     "size_zst": 277526,
     "authno": 705,
     "author_died": "427",
-    "release": "v1.0"
-  },
-  {
-    "bkid": 11079,
-    "title": "تأسيس التقديس في كشف تلبيس داود بن جرجيس",
-    "author": "عبد الله أبا بطين",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 152,
-    "filename": "11079.sqlite.zst",
-    "size_raw": 626688,
-    "size_zst": 99139,
-    "authno": 47,
-    "author_died": "1282",
     "release": "v1.0"
   },
   {
@@ -41272,34 +39578,6 @@
     "release": "v1.0"
   },
   {
-    "bkid": 11095,
-    "title": "تسهيل الفرائض",
-    "author": "ابن عثيمين",
-    "category": "بحوث ومسائل",
-    "cat_id": 139,
-    "pages": 130,
-    "filename": "11095.sqlite.zst",
-    "size_raw": 327680,
-    "size_zst": 53452,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.0"
-  },
-  {
-    "bkid": 11096,
-    "title": "تسهيل المناسك",
-    "author": "عبد الكريم بن صنيتان العمري",
-    "category": "بحوث ومسائل",
-    "cat_id": 139,
-    "pages": 109,
-    "filename": "11096.sqlite.zst",
-    "size_raw": 163840,
-    "size_zst": 37928,
-    "authno": 1526,
-    "author_died": "معاصر",
-    "release": "v1.0"
-  },
-  {
     "bkid": 11097,
     "title": "تصحيح حديث إفطار الصائم قبل سفرة بعد الفجر",
     "author": "ناصر الدين الألباني",
@@ -41325,34 +39603,6 @@
     "size_zst": 72432,
     "authno": 141,
     "author_died": "1182",
-    "release": "v1.0"
-  },
-  {
-    "bkid": 11099,
-    "title": "تفسير آيات من القرآن الكريم (مطبوع ضمن مؤلفات الشيخ محمد بن عبد الوهاب، الجزء الخامس)",
-    "author": "محمد بن عبد الوهاب",
-    "category": "التفاسير",
-    "cat_id": 127,
-    "pages": 379,
-    "filename": "11099.sqlite.zst",
-    "size_raw": 999424,
-    "size_zst": 179443,
-    "authno": 152,
-    "author_died": "1206",
-    "release": "v1.0"
-  },
-  {
-    "bkid": 11100,
-    "title": "تقريب التدمرية",
-    "author": "ابن عثيمين",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 157,
-    "filename": "11100.sqlite.zst",
-    "size_raw": 462848,
-    "size_zst": 76781,
-    "authno": 57,
-    "author_died": "1421",
     "release": "v1.0"
   },
   {
@@ -41426,20 +39676,6 @@
     "release": "v1.0"
   },
   {
-    "bkid": 11109,
-    "title": "تلخيص فقة الفرائض",
-    "author": "ابن عثيمين",
-    "category": "بحوث ومسائل",
-    "cat_id": 139,
-    "pages": 65,
-    "filename": "11109.sqlite.zst",
-    "size_raw": 69632,
-    "size_zst": 11672,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.0"
-  },
-  {
     "bkid": 11118,
     "title": "المنتخب من أمالي ابن حجر من تخريج مختصر ابن الحاجب-مخطوط (ن)",
     "author": "ابن حجر العسقلاني",
@@ -41507,20 +39743,6 @@
     "size_zst": 24754,
     "authno": 28,
     "author_died": "معاصر",
-    "release": "v1.0"
-  },
-  {
-    "bkid": 11126,
-    "title": "ثلاثة الأصول (مطبوع ضمن مؤلفات الشيخ محمد بن عبدالوهاب، الجزء الأول)",
-    "author": "محمد بن عبد الوهاب",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 12,
-    "filename": "11126.sqlite.zst",
-    "size_raw": 57344,
-    "size_zst": 8995,
-    "authno": 152,
-    "author_died": "1206",
     "release": "v1.0"
   },
   {
@@ -41633,20 +39855,6 @@
     "size_zst": 29986,
     "authno": 1546,
     "author_died": null,
-    "release": "v1.0"
-  },
-  {
-    "bkid": 11146,
-    "title": "جواب أهل السنة النبوية في نقض كلام الشيعة والزيدية (مطبوع ضمن الرسائل والمسائل النجدية، الجزء الرابع، القسم الأول)",
-    "author": "عبد الله بن محمد بن عبد الوهاب",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 184,
-    "filename": "11146.sqlite.zst",
-    "size_raw": 733184,
-    "size_zst": 128935,
-    "authno": 1015,
-    "author_died": "1242",
     "release": "v1.0"
   },
   {
@@ -41832,20 +40040,6 @@
     "release": "v1.0"
   },
   {
-    "bkid": 11166,
-    "title": "حكم تارك الصلاة - العثيمين",
-    "author": "ابن عثيمين",
-    "category": "بحوث ومسائل",
-    "cat_id": 139,
-    "pages": 29,
-    "filename": "11166.sqlite.zst",
-    "size_raw": 73728,
-    "size_zst": 13672,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.0"
-  },
-  {
     "bkid": 11167,
     "title": "حماية الرسول صلى الله عليه وسلم حمى التوحيد",
     "author": "محمد بن عبد الله زربان الغامدي",
@@ -41972,20 +40166,6 @@
     "release": "v1.0"
   },
   {
-    "bkid": 11179,
-    "title": "أصول الإيمان لابن باز",
-    "author": "ابن باز",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 7,
-    "filename": "11179.sqlite.zst",
-    "size_raw": 49152,
-    "size_zst": 8586,
-    "authno": 67,
-    "author_died": "1420",
-    "release": "v1.0"
-  },
-  {
     "bkid": 11180,
     "title": "دحض دعوى المستشرقين أن القرأن من عند النبي صلى الله علية وسلم",
     "author": "سعود بن عبد العزيز الخلف",
@@ -41997,20 +40177,6 @@
     "size_zst": 42280,
     "authno": 1060,
     "author_died": "",
-    "release": "v1.0"
-  },
-  {
-    "bkid": 11181,
-    "title": "دحض شبهات على التوحيد من سوء الفهم لثلاثة أحاديث",
-    "author": "عبد الله أبا بطين",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 54,
-    "filename": "11181.sqlite.zst",
-    "size_raw": 212992,
-    "size_zst": 37355,
-    "authno": 47,
-    "author_died": "1282",
     "release": "v1.0"
   },
   {
@@ -42280,34 +40446,6 @@
     "release": "v1.0"
   },
   {
-    "bkid": 11211,
-    "title": "رسائل وفتاوى عبد الرحمن بن حسن بن محمد عبد الوهاب",
-    "author": "عبد الرحمن بن حسن آل الشيخ",
-    "category": "الفتاوى",
-    "cat_id": 141,
-    "pages": 95,
-    "filename": "11211.sqlite.zst",
-    "size_raw": 397312,
-    "size_zst": 67583,
-    "authno": 172,
-    "author_died": "1285",
-    "release": "v1.0"
-  },
-  {
-    "bkid": 11212,
-    "title": "رسائل وفتاوى أبا بطين",
-    "author": "عبد الله أبا بطين",
-    "category": "الفتاوى",
-    "cat_id": 141,
-    "pages": 162,
-    "filename": "11212.sqlite.zst",
-    "size_raw": 663552,
-    "size_zst": 104342,
-    "authno": 47,
-    "author_died": "1282",
-    "release": "v1.0"
-  },
-  {
     "bkid": 11213,
     "title": "رسالة السجزي إلى أهل زبيد في الرد على من أنكر الحرف والصوت",
     "author": "عُبَيْد الله السِّجْزي",
@@ -42350,20 +40488,6 @@
     "release": "v1.0"
   },
   {
-    "bkid": 11217,
-    "title": "رسالة في الرد على الرافضة (مطبوع ضمن مؤلفات الشيخ محمد بن عبد الوهاب، الجزء الثاني عشر)",
-    "author": "محمد بن عبد الوهاب",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 50,
-    "filename": "11217.sqlite.zst",
-    "size_raw": 180224,
-    "size_zst": 31435,
-    "authno": 152,
-    "author_died": "1206",
-    "release": "v1.0"
-  },
-  {
     "bkid": 11218,
     "title": "رسالة في القرآن وكلام الله",
     "author": "المقدسي، موفق الدين",
@@ -42378,76 +40502,6 @@
     "release": "v1.0"
   },
   {
-    "bkid": 11221,
-    "title": "فضل الإسلام (مطبوع ضمن مؤلفات الشيخ محمد بن عبد الوهاب، الجزءالأول)",
-    "author": "محمد بن عبد الوهاب",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 23,
-    "filename": "11221.sqlite.zst",
-    "size_raw": 73728,
-    "size_zst": 12891,
-    "authno": 152,
-    "author_died": "1206",
-    "release": "v1.0"
-  },
-  {
-    "bkid": 11222,
-    "title": "فضل الصلاة على النبي صلى الله عليه وسلم وبيان معناها وكيفيتها وشيء مما ألف فيها",
-    "author": "عبد المحسن العباد",
-    "category": "الرقاق والآداب والأذكار",
-    "cat_id": 113,
-    "pages": 44,
-    "filename": "11222.sqlite.zst",
-    "size_raw": 65536,
-    "size_zst": 12918,
-    "authno": 185,
-    "author_died": "معاصر",
-    "release": "v1.0"
-  },
-  {
-    "bkid": 11223,
-    "title": "رسالة في القضاء والقدر",
-    "author": "ابن عثيمين",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 29,
-    "filename": "11223.sqlite.zst",
-    "size_raw": 49152,
-    "size_zst": 10023,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.0"
-  },
-  {
-    "bkid": 11224,
-    "title": "رسالة في زكاة الحلي",
-    "author": "ابن عثيمين",
-    "category": "بحوث ومسائل",
-    "cat_id": 139,
-    "pages": 30,
-    "filename": "11224.sqlite.zst",
-    "size_raw": 53248,
-    "size_zst": 10138,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.0"
-  },
-  {
-    "bkid": 11225,
-    "title": "رسالة في سجود السهو",
-    "author": "ابن عثيمين",
-    "category": "بحوث ومسائل",
-    "cat_id": 139,
-    "pages": 14,
-    "filename": "11225.sqlite.zst",
-    "size_raw": 36864,
-    "size_zst": 5495,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.0"
-  },
-  {
     "bkid": 11226,
     "title": "رسالة مهمة للإمام المجاهد العلامة عبد العزيز بن محمد بن سعود",
     "author": "عبد العزيز بن محمد بن سعود",
@@ -42459,20 +40513,6 @@
     "size_zst": 26399,
     "authno": 1564,
     "author_died": "1218",
-    "release": "v1.0"
-  },
-  {
-    "bkid": 11228,
-    "title": "رفقا أهل السنة بأهل السنة",
-    "author": "عبد المحسن العباد",
-    "category": "الرقاق والآداب والأذكار",
-    "cat_id": 113,
-    "pages": 60,
-    "filename": "11228.sqlite.zst",
-    "size_raw": 94208,
-    "size_zst": 20764,
-    "authno": 185,
-    "author_died": "معاصر",
     "release": "v1.0"
   },
   {
@@ -42501,34 +40541,6 @@
     "size_zst": 97488,
     "authno": 436,
     "author_died": "968",
-    "release": "v1.0"
-  },
-  {
-    "bkid": 11232,
-    "title": "فضل المدينة وآداب سكناها وزيارتها",
-    "author": "عبد المحسن العباد",
-    "category": "الرقاق والآداب والأذكار",
-    "cat_id": 113,
-    "pages": 55,
-    "filename": "11232.sqlite.zst",
-    "size_raw": 110592,
-    "size_zst": 20715,
-    "authno": 185,
-    "author_died": "معاصر",
-    "release": "v1.0"
-  },
-  {
-    "bkid": 11233,
-    "title": "فضل أهل البيت وعلو مكانتهم عند أهل السنة والجماعة",
-    "author": "عبد المحسن العباد",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 83,
-    "filename": "11233.sqlite.zst",
-    "size_raw": 159744,
-    "size_zst": 31600,
-    "authno": 185,
-    "author_died": "معاصر",
     "release": "v1.0"
   },
   {
@@ -42742,20 +40754,6 @@
     "release": "v1.0"
   },
   {
-    "bkid": 11250,
-    "title": "شرح العقيدة الواسطية للعثيمين",
-    "author": "ابن عثيمين",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 442,
-    "filename": "11250.sqlite.zst",
-    "size_raw": 1060864,
-    "size_zst": 204350,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.0"
-  },
-  {
     "bkid": 11251,
     "title": "شرح عمدة الفقه لابن تيمية - من كتاب الصلاة",
     "author": "ابن تيمية",
@@ -42767,20 +40765,6 @@
     "size_zst": 219762,
     "authno": 54,
     "author_died": "728",
-    "release": "v1.0"
-  },
-  {
-    "bkid": 11252,
-    "title": "شرح القواعد الأربع",
-    "author": "صالح الفوزان",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 30,
-    "filename": "11252.sqlite.zst",
-    "size_raw": 131072,
-    "size_zst": 20251,
-    "authno": 62,
-    "author_died": "معاصر",
     "release": "v1.0"
   },
   {
@@ -42798,34 +40782,6 @@
     "release": "v1.0"
   },
   {
-    "bkid": 11254,
-    "title": "شرح المنظومة البيقونية في مصطلح الحديث",
-    "author": "ابن عثيمين",
-    "category": "علوم الحديث",
-    "cat_id": 126,
-    "pages": 111,
-    "filename": "11254.sqlite.zst",
-    "size_raw": 278528,
-    "size_zst": 52536,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.0"
-  },
-  {
-    "bkid": 11255,
-    "title": "شرح ثلاثة الأصول لابن باز",
-    "author": "ابن باز",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 81,
-    "filename": "11255.sqlite.zst",
-    "size_raw": 262144,
-    "size_zst": 40025,
-    "authno": 67,
-    "author_died": "1420",
-    "release": "v1.0"
-  },
-  {
     "bkid": 11256,
     "title": "شرح الرسالة التدمرية",
     "author": "محمد بن عبد الرحمن الخميس",
@@ -42837,20 +40793,6 @@
     "size_zst": 239704,
     "authno": 28,
     "author_died": "معاصر",
-    "release": "v1.0"
-  },
-  {
-    "bkid": 11257,
-    "title": "شرح ثلاثة الأصول للعثيمين",
-    "author": "ابن عثيمين",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 236,
-    "filename": "11257.sqlite.zst",
-    "size_raw": 557056,
-    "size_zst": 90470,
-    "authno": 57,
-    "author_died": "1421",
     "release": "v1.0"
   },
   {
@@ -42868,20 +40810,6 @@
     "release": "v1.0"
   },
   {
-    "bkid": 11259,
-    "title": "شرح حديث جبريل في تعليم الدين",
-    "author": "عبد المحسن العباد",
-    "category": "شروح الحديث",
-    "cat_id": 108,
-    "pages": 75,
-    "filename": "11259.sqlite.zst",
-    "size_raw": 315392,
-    "size_zst": 53136,
-    "authno": 185,
-    "author_died": "معاصر",
-    "release": "v1.0"
-  },
-  {
     "bkid": 11261,
     "title": "عباد الله اسلمو تسلموا",
     "author": "أبو بكر الجزائري",
@@ -42892,20 +40820,6 @@
     "size_raw": 36864,
     "size_zst": 6520,
     "authno": 127,
-    "author_died": "معاصر",
-    "release": "v1.0"
-  },
-  {
-    "bkid": 11262,
-    "title": "شرح شروط الصلاة وأركانها وواجباتها لشيخ الإسلام محمد بن عبد الوهاب",
-    "author": "عبد المحسن العباد",
-    "category": "فقه حنبلي",
-    "cat_id": 137,
-    "pages": 97,
-    "filename": "11262.sqlite.zst",
-    "size_raw": 147456,
-    "size_zst": 31798,
-    "authno": 185,
     "author_died": "معاصر",
     "release": "v1.0"
   },
@@ -42935,48 +40849,6 @@
     "size_zst": 69277,
     "authno": 591,
     "author_died": "1389",
-    "release": "v1.0"
-  },
-  {
-    "bkid": 11265,
-    "title": "شرح مسائل الجاهلية",
-    "author": "صالح الفوزان",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 301,
-    "filename": "11265.sqlite.zst",
-    "size_raw": 614400,
-    "size_zst": 109365,
-    "authno": 62,
-    "author_died": "معاصر",
-    "release": "v1.0"
-  },
-  {
-    "bkid": 11266,
-    "title": "شروط الصلاة وأركانها وواجباتها (مطبوع ضمن مؤلفات الشيخ محمد بن عبد الوهاب، الجزء الثالث)",
-    "author": "محمد بن عبد الوهاب",
-    "category": "بحوث ومسائل",
-    "cat_id": 139,
-    "pages": 10,
-    "filename": "11266.sqlite.zst",
-    "size_raw": 45056,
-    "size_zst": 7223,
-    "authno": 152,
-    "author_died": "1206",
-    "release": "v1.0"
-  },
-  {
-    "bkid": 11267,
-    "title": "صفحات رمضانية",
-    "author": "عبد الكريم بن صنيتان العمري",
-    "category": "بحوث ومسائل",
-    "cat_id": 139,
-    "pages": 88,
-    "filename": "11267.sqlite.zst",
-    "size_raw": 282624,
-    "size_zst": 53157,
-    "authno": 1526,
-    "author_died": "معاصر",
     "release": "v1.0"
   },
   {
@@ -43187,34 +41059,6 @@
     "size_zst": 19272,
     "authno": 54,
     "author_died": "728",
-    "release": "v1.0"
-  },
-  {
-    "bkid": 11291,
-    "title": "عقيدة أهل السنة في الصحابة لعبد المحسن العباد",
-    "author": "عبد المحسن العباد",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 25,
-    "filename": "11291.sqlite.zst",
-    "size_raw": 49152,
-    "size_zst": 8488,
-    "authno": 185,
-    "author_died": "معاصر",
-    "release": "v1.0"
-  },
-  {
-    "bkid": 11292,
-    "title": "قطف الجني الداني شرح مقدمة رسالة ابن أبي زيد القيرواني",
-    "author": "عبد المحسن العباد",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 188,
-    "filename": "11292.sqlite.zst",
-    "size_raw": 716800,
-    "size_zst": 114270,
-    "authno": 185,
-    "author_died": "معاصر",
     "release": "v1.0"
   },
   {
@@ -43526,20 +41370,6 @@
     "release": "v1.0"
   },
   {
-    "bkid": 11318,
-    "title": "التوحيد لابن عبد الوهاب",
-    "author": "محمد بن عبد الوهاب",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 145,
-    "filename": "11318.sqlite.zst",
-    "size_raw": 266240,
-    "size_zst": 50396,
-    "authno": 152,
-    "author_died": "1206",
-    "release": "v1.0"
-  },
-  {
     "bkid": 11319,
     "title": "الزاهر في غريب ألفاظ الشافعي",
     "author": "الأزهري",
@@ -43565,34 +41395,6 @@
     "size_zst": 216855,
     "authno": 1005,
     "author_died": "",
-    "release": "v1.0"
-  },
-  {
-    "bkid": 11324,
-    "title": "فتاوى ومسائل (مطبوع ضمن مؤلفات الشيخ محمد بن عبد الوهاب، الجزء الرابع)",
-    "author": "محمد بن عبد الوهاب",
-    "category": "الفتاوى",
-    "cat_id": 141,
-    "pages": 125,
-    "filename": "11324.sqlite.zst",
-    "size_raw": 372736,
-    "size_zst": 64281,
-    "authno": 152,
-    "author_died": "1206",
-    "release": "v1.0"
-  },
-  {
-    "bkid": 11325,
-    "title": "فتح القوي المتين في شرح الأربعين وتتمة الخمسين للنووي وابن رجب رحمهما الله",
-    "author": "عبد المحسن العباد",
-    "category": "شروح الحديث",
-    "cat_id": 108,
-    "pages": 179,
-    "filename": "11325.sqlite.zst",
-    "size_raw": 512000,
-    "size_zst": 84491,
-    "authno": 185,
-    "author_died": "معاصر",
     "release": "v1.0"
   },
   {
@@ -43624,20 +41426,6 @@
     "release": "v1.0"
   },
   {
-    "bkid": 11328,
-    "title": "فضائل القرآن لمحمد بن عبد الوهاب",
-    "author": "محمد بن عبد الوهاب",
-    "category": "علوم القرآن",
-    "cat_id": 128,
-    "pages": 35,
-    "filename": "11328.sqlite.zst",
-    "size_raw": 90112,
-    "size_zst": 17585,
-    "authno": 152,
-    "author_died": "1206",
-    "release": "v1.0"
-  },
-  {
     "bkid": 11329,
     "title": "فائدة جليلة في قواعد الأسماء الحسنى",
     "author": "ابن القيم",
@@ -43666,20 +41454,6 @@
     "release": "v1.0"
   },
   {
-    "bkid": 11332,
-    "title": "العلم للعثيمين",
-    "author": "ابن عثيمين",
-    "category": "الرقاق والآداب والأذكار",
-    "cat_id": 113,
-    "pages": 189,
-    "filename": "11332.sqlite.zst",
-    "size_raw": 741376,
-    "size_zst": 127427,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.0"
-  },
-  {
     "bkid": 11333,
     "title": "القدر للفريابي محققا",
     "author": "الفريابي",
@@ -43691,20 +41465,6 @@
     "size_zst": 129598,
     "authno": 262,
     "author_died": "301",
-    "release": "v1.0"
-  },
-  {
-    "bkid": 11334,
-    "title": "كتاب التوحيد وقرة عيون الموحدين في تحقيق دعوة الأنبياء والمرسلين",
-    "author": "عبد الرحمن بن حسن آل الشيخ",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 311,
-    "filename": "11334.sqlite.zst",
-    "size_raw": 1126400,
-    "size_zst": 199945,
-    "authno": 172,
-    "author_died": "1285",
     "release": "v1.0"
   },
   {
@@ -43876,20 +41636,6 @@
     "release": "v1.0"
   },
   {
-    "bkid": 11354,
-    "title": "كشف ما ألقاه إبليس من البهرج والتلبيس على قلب داود بن جرجيس",
-    "author": "عبد الرحمن بن حسن آل الشيخ",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 359,
-    "filename": "11354.sqlite.zst",
-    "size_raw": 1265664,
-    "size_zst": 186908,
-    "authno": 172,
-    "author_died": "1285",
-    "release": "v1.0"
-  },
-  {
     "bkid": 11355,
     "title": "مختصر خليل",
     "author": "خليل بن إسحاق الجندي",
@@ -43960,34 +41706,6 @@
     "release": "v1.0"
   },
   {
-    "bkid": 11360,
-    "title": "كيف نستفيد من الكتب الحديثية الستة",
-    "author": "عبد المحسن العباد",
-    "category": "علوم الحديث",
-    "cat_id": 126,
-    "pages": 37,
-    "filename": "11360.sqlite.zst",
-    "size_raw": 57344,
-    "size_zst": 11751,
-    "authno": 185,
-    "author_died": "معاصر",
-    "release": "v1.0"
-  },
-  {
-    "bkid": 11361,
-    "title": "كيف يؤدي الموظف الأمانة",
-    "author": "عبد المحسن العباد",
-    "category": "بحوث ومسائل",
-    "cat_id": 139,
-    "pages": 26,
-    "filename": "11361.sqlite.zst",
-    "size_raw": 49152,
-    "size_zst": 9285,
-    "authno": 185,
-    "author_died": "معاصر",
-    "release": "v1.0"
-  },
-  {
     "bkid": 11362,
     "title": "كيف يجب علينا أن نفسر القرآن الكريم",
     "author": "ناصر الدين الألباني",
@@ -44044,20 +41762,6 @@
     "release": "v1.0"
   },
   {
-    "bkid": 11366,
-    "title": "تعليق مختصر على لمعة الاعتقاد للعثيمين",
-    "author": "ابن عثيمين",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 176,
-    "filename": "11366.sqlite.zst",
-    "size_raw": 548864,
-    "size_zst": 89879,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.0"
-  },
-  {
     "bkid": 11367,
     "title": "ما له حكم الرفع من أقوال الصحابة وأفعالهم",
     "author": "محمد بن مطر الزهراني",
@@ -44083,20 +41787,6 @@
     "size_zst": 259990,
     "authno": 997,
     "author_died": "1420",
-    "release": "v1.0"
-  },
-  {
-    "bkid": 11369,
-    "title": "مبحث الاجتهاد والخلاف (مطبوع ضمن مؤلفات الشيخ محمد بن عبد الوهاب، الجزء الثالث)",
-    "author": "محمد بن عبد الوهاب",
-    "category": "أصول الفقه والقواعد الفقهية",
-    "cat_id": 133,
-    "pages": 37,
-    "filename": "11369.sqlite.zst",
-    "size_raw": 122880,
-    "size_zst": 21476,
-    "authno": 152,
-    "author_died": "1206",
     "release": "v1.0"
   },
   {
@@ -44184,20 +41874,6 @@
     "release": "v1.0"
   },
   {
-    "bkid": 11377,
-    "title": "مجموعة أسئلة تهم الأسرة المسلمة",
-    "author": "ابن عثيمين",
-    "category": "بحوث ومسائل",
-    "cat_id": 139,
-    "pages": 195,
-    "filename": "11377.sqlite.zst",
-    "size_raw": 225280,
-    "size_zst": 50475,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.0"
-  },
-  {
     "bkid": 11378,
     "title": "مجموعة الرسائل والمسائل النجدية (الجزء الرابع، القسم الثاني)",
     "author": "مجموعة من المؤلفين",
@@ -44240,20 +41916,6 @@
     "release": "v1.0"
   },
   {
-    "bkid": 11381,
-    "title": "مجموعة رسائل في التوحيد والإيمان (مطبوع ضمن مؤلفات الشيخ محمد بن عبد الوهاب، الجزء الأول)",
-    "author": "محمد بن عبد الوهاب",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 67,
-    "filename": "11381.sqlite.zst",
-    "size_raw": 212992,
-    "size_zst": 34752,
-    "authno": 152,
-    "author_died": "1206",
-    "release": "v1.0"
-  },
-  {
     "bkid": 11382,
     "title": "محمد بن عبد الوهاب عقيدته السلفية ودعوته الإصلاحية وثناء العلماء عليه",
     "author": "أحمد بن حجر آل بوطامي",
@@ -44265,20 +41927,6 @@
     "size_zst": 83720,
     "authno": 1075,
     "author_died": "1423",
-    "release": "v1.0"
-  },
-  {
-    "bkid": 11383,
-    "title": "مختصر تفسير سورة الأنفال (مطبوع ضمن مؤلفات الشيخ محمد بن عبد الوهاب، الجزء الثاني عشر)",
-    "author": "محمد بن عبد الوهاب",
-    "category": "التفاسير",
-    "cat_id": 127,
-    "pages": 26,
-    "filename": "11383.sqlite.zst",
-    "size_raw": 106496,
-    "size_zst": 18047,
-    "authno": 152,
-    "author_died": "1206",
     "release": "v1.0"
   },
   {
@@ -44307,20 +41955,6 @@
     "size_zst": 2779759,
     "authno": 328,
     "author_died": "742",
-    "release": "v1.0"
-  },
-  {
-    "bkid": 11389,
-    "title": "مختصر مغني اللبيب عن كتاب الأعاريب",
-    "author": "ابن عثيمين",
-    "category": "النحو والصرف",
-    "cat_id": 151,
-    "pages": 185,
-    "filename": "11389.sqlite.zst",
-    "size_raw": 253952,
-    "size_zst": 56335,
-    "authno": 57,
-    "author_died": "1421",
     "release": "v1.0"
   },
   {
@@ -44968,20 +42602,6 @@
     "release": "v1.0"
   },
   {
-    "bkid": 11529,
-    "title": "أحكام الأضحية والذكاة",
-    "author": "ابن عثيمين",
-    "category": "بحوث ومسائل",
-    "cat_id": 139,
-    "pages": 79,
-    "filename": "11529.sqlite.zst",
-    "size_raw": 274432,
-    "size_zst": 48099,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.0"
-  },
-  {
     "bkid": 11539,
     "title": "حاشية الصبان على شرح الأشمونى لألفية ابن مالك",
     "author": "الصبان",
@@ -45217,34 +42837,6 @@
     "size_zst": 41676,
     "authno": 70,
     "author_died": "معاصر",
-    "release": "v1.0"
-  },
-  {
-    "bkid": 11572,
-    "title": "مسائل لخصها الشيخ محمد بن عبد الوهاب من كلام بن تيمية (مطبوع ضمن مؤلفات الشيخ محمد بن عبد الوهاب، الجزء الثاني عشر)",
-    "author": "محمد بن عبد الوهاب",
-    "category": "بحوث ومسائل",
-    "cat_id": 139,
-    "pages": 195,
-    "filename": "11572.sqlite.zst",
-    "size_raw": 786432,
-    "size_zst": 128640,
-    "authno": 152,
-    "author_died": "1206",
-    "release": "v1.0"
-  },
-  {
-    "bkid": 11573,
-    "title": "مسائل وفتاوى نجدية (طبع ضمن الرسائل والمسائل النجدية، الجزء الرابع، القسم الأول)",
-    "author": "عبد الرحمن بن حسن آل الشيخ",
-    "category": "الفتاوى",
-    "cat_id": 141,
-    "pages": 113,
-    "filename": "11573.sqlite.zst",
-    "size_raw": 397312,
-    "size_zst": 76025,
-    "authno": 172,
-    "author_died": "1285",
     "release": "v1.0"
   },
   {
@@ -46116,20 +43708,6 @@
     "release": "v1.0"
   },
   {
-    "bkid": 11811,
-    "title": "الملخص الفقهي",
-    "author": "صالح الفوزان",
-    "category": "فقه حنبلي",
-    "cat_id": 137,
-    "pages": 1076,
-    "filename": "11811.sqlite.zst",
-    "size_raw": 2023424,
-    "size_zst": 396397,
-    "authno": 62,
-    "author_died": "معاصر",
-    "release": "v1.0"
-  },
-  {
     "bkid": 11812,
     "title": "الملل والنحل",
     "author": "الشهرستاني",
@@ -46928,20 +44506,6 @@
     "release": "v1.0"
   },
   {
-    "bkid": 12061,
-    "title": "مجموعة الحديث على أبواب الفقه (مطبوع ضمن مؤلفات الشيخ محمد بن عبد الوهاب، الجزء السابع، الثامن، التاسع، العاشر)",
-    "author": "محمد بن عبد الوهاب",
-    "category": "فقه عام",
-    "cat_id": 138,
-    "pages": 1997,
-    "filename": "12061.sqlite.zst",
-    "size_raw": 4100096,
-    "size_zst": 779528,
-    "authno": 152,
-    "author_died": "1206",
-    "release": "v1.0"
-  },
-  {
     "bkid": 12062,
     "title": "محض الصواب في فضائل أمير المؤمنين عمر بن الخطاب",
     "author": "ابن المِبْرَد",
@@ -46981,20 +44545,6 @@
     "size_zst": 465706,
     "authno": 208,
     "author_died": "",
-    "release": "v1.0"
-  },
-  {
-    "bkid": 12066,
-    "title": "من أعلام المجددين",
-    "author": "صالح الفوزان",
-    "category": "التراجم والطبقات",
-    "cat_id": 146,
-    "pages": 98,
-    "filename": "12066.sqlite.zst",
-    "size_raw": 368640,
-    "size_zst": 58525,
-    "authno": 62,
-    "author_died": "معاصر",
     "release": "v1.0"
   },
   {
@@ -47124,20 +44674,6 @@
     "release": "v1.0"
   },
   {
-    "bkid": 12078,
-    "title": "مفيد المستفيد في كفر تارك التوحيد (مطبوع ضمن مؤلفات الشيخ محمد بن عبد الوهاب، الجزء الأول)",
-    "author": "محمد بن عبد الوهاب",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 49,
-    "filename": "12078.sqlite.zst",
-    "size_raw": 200704,
-    "size_zst": 34533,
-    "authno": 152,
-    "author_died": "1206",
-    "release": "v1.0"
-  },
-  {
     "bkid": 12079,
     "title": "مقالة التعطيل والجعد بن درهم",
     "author": "محمد بن خليفة التميمي",
@@ -47177,34 +44713,6 @@
     "size_zst": 27639,
     "authno": 54,
     "author_died": "728",
-    "release": "v1.0"
-  },
-  {
-    "bkid": 12082,
-    "title": "مكارم الأخلاق لابن عثيمين",
-    "author": "ابن عثيمين",
-    "category": "الرقاق والآداب والأذكار",
-    "cat_id": 113,
-    "pages": 54,
-    "filename": "12082.sqlite.zst",
-    "size_raw": 155648,
-    "size_zst": 29338,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.0"
-  },
-  {
-    "bkid": 12084,
-    "title": "من أخلاق الرسول الكريم صلى الله عليه وسلم",
-    "author": "عبد المحسن العباد",
-    "category": "السيرة والشمائل",
-    "cat_id": 144,
-    "pages": 91,
-    "filename": "12084.sqlite.zst",
-    "size_raw": 151552,
-    "size_zst": 31824,
-    "authno": 185,
-    "author_died": "معاصر",
     "release": "v1.0"
   },
   {
@@ -47292,20 +44800,6 @@
     "release": "v1.0"
   },
   {
-    "bkid": 12092,
-    "title": "منسك الحج",
-    "author": "محمد بن عبد الوهاب",
-    "category": "بحوث ومسائل",
-    "cat_id": 139,
-    "pages": 55,
-    "filename": "12092.sqlite.zst",
-    "size_raw": 131072,
-    "size_zst": 25362,
-    "authno": 152,
-    "author_died": "1206",
-    "release": "v1.0"
-  },
-  {
     "bkid": 12093,
     "title": "المقدمة الجزرية",
     "author": "ابن الجزري",
@@ -47362,20 +44856,6 @@
     "release": "v1.0"
   },
   {
-    "bkid": 12097,
-    "title": "منهاج أهل السنة والجماعة في العقيدة والعمل",
-    "author": "ابن عثيمين",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 48,
-    "filename": "12097.sqlite.zst",
-    "size_raw": 98304,
-    "size_zst": 19037,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.0"
-  },
-  {
     "bkid": 12098,
     "title": "منهج ابن الأثير الجزري في مصنفه النهاية في غريب الحديث والأثر",
     "author": "أحمد الخراط",
@@ -47390,20 +44870,6 @@
     "release": "v1.0"
   },
   {
-    "bkid": 12099,
-    "title": "منهج السالكين وتوضيح الفقة في الدين",
-    "author": "عبد الرحمن السعدي",
-    "category": "فقه عام",
-    "cat_id": 138,
-    "pages": 330,
-    "filename": "12099.sqlite.zst",
-    "size_raw": 585728,
-    "size_zst": 127146,
-    "authno": 128,
-    "author_died": "1376",
-    "release": "v1.0"
-  },
-  {
     "bkid": 12100,
     "title": "منهج الطلاب في فقه الإمام الشافعي رضي الله عنه",
     "author": "الأنصاري، زكريا",
@@ -47415,20 +44881,6 @@
     "size_zst": 159642,
     "authno": 6,
     "author_died": "926",
-    "release": "v1.0"
-  },
-  {
-    "bkid": 12101,
-    "title": "منهج محمد بن عبد الوهاب في التأليف",
-    "author": "عبد المحسن العباد",
-    "category": "التراجم والطبقات",
-    "cat_id": 146,
-    "pages": 44,
-    "filename": "12101.sqlite.zst",
-    "size_raw": 77824,
-    "size_zst": 15787,
-    "authno": 185,
-    "author_died": "معاصر",
     "release": "v1.0"
   },
   {
@@ -48395,20 +45847,6 @@
     "size_zst": 238526,
     "authno": 1928,
     "author_died": "580",
-    "release": "v1.0"
-  },
-  {
-    "bkid": 12293,
-    "title": "مجموع فتاوى ورسائل العثيمين",
-    "author": "ابن عثيمين",
-    "category": "الفتاوى",
-    "cat_id": 141,
-    "pages": 11107,
-    "filename": "12293.sqlite.zst",
-    "size_raw": 31805440,
-    "size_zst": 4770790,
-    "authno": 57,
-    "author_died": "1421",
     "release": "v1.0"
   },
   {
@@ -50187,20 +47625,6 @@
     "size_zst": 741669,
     "authno": 210,
     "author_died": "864",
-    "release": "v1.1"
-  },
-  {
-    "bkid": 12880,
-    "title": "التعليق على رسالة حقيقة الصيام وكتاب الصيام من الفروع ومسائل مختارة منه",
-    "author": "ابن عثيمين",
-    "category": "بحوث ومسائل - مرقم آليا",
-    "cat_id": 187,
-    "pages": 282,
-    "filename": "12880.sqlite.zst",
-    "size_raw": 995328,
-    "size_zst": 169738,
-    "authno": 57,
-    "author_died": "1421",
     "release": "v1.1"
   },
   {
@@ -53046,20 +50470,6 @@
     "release": "v1.3"
   },
   {
-    "bkid": 18007,
-    "title": "دفع إيهام الاضطراب عن آيات الكتاب",
-    "author": "الشنقيطي، محمد الأمين",
-    "category": "علوم القرآن",
-    "cat_id": 128,
-    "pages": 288,
-    "filename": "18007.sqlite.zst",
-    "size_raw": 1179648,
-    "size_zst": 175905,
-    "authno": 114,
-    "author_died": "1393",
-    "release": "v1.3"
-  },
-  {
     "bkid": 18381,
     "title": "الفتوى الحموية الكبرى",
     "author": "ابن تيمية",
@@ -53732,20 +51142,6 @@
     "release": "v1.3"
   },
   {
-    "bkid": 21521,
-    "title": "شرح مقدمة التفسير لابن تيمية - العثيمين",
-    "author": "ابن عثيمين",
-    "category": "علوم القرآن",
-    "cat_id": 128,
-    "pages": 156,
-    "filename": "21521.sqlite.zst",
-    "size_raw": 430080,
-    "size_zst": 77620,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.3"
-  },
-  {
     "bkid": 21522,
     "title": "منتقى الأذكار",
     "author": "خالد الجريسي",
@@ -53756,20 +51152,6 @@
     "size_raw": 282624,
     "size_zst": 50847,
     "authno": 1308,
-    "author_died": "معاصر",
-    "release": "v1.3"
-  },
-  {
-    "bkid": 21523,
-    "title": "التعليقات المختصرة على متن العقيدة الطحاوية",
-    "author": "صالح الفوزان",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 246,
-    "filename": "21523.sqlite.zst",
-    "size_raw": 581632,
-    "size_zst": 112557,
-    "authno": 62,
     "author_died": "معاصر",
     "release": "v1.3"
   },
@@ -53830,20 +51212,6 @@
     "release": "v1.3"
   },
   {
-    "bkid": 21528,
-    "title": "48 سؤالا في الصيام",
-    "author": "ابن عثيمين",
-    "category": "بحوث ومسائل - مرقم آليا",
-    "cat_id": 187,
-    "pages": 40,
-    "filename": "21528.sqlite.zst",
-    "size_raw": 172032,
-    "size_zst": 26184,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.3"
-  },
-  {
     "bkid": 21529,
     "title": "المهذب في علم أصول الفقه المقارن",
     "author": "عبد الكريم النملة",
@@ -53883,20 +51251,6 @@
     "size_zst": 526121,
     "authno": 115,
     "author_died": "671",
-    "release": "v1.3"
-  },
-  {
-    "bkid": 21537,
-    "title": "مجموع فتاوى ابن باز",
-    "author": "ابن باز",
-    "category": "الفتاوى",
-    "cat_id": 141,
-    "pages": 16223,
-    "filename": "21537.sqlite.zst",
-    "size_raw": 31748096,
-    "size_zst": 4681260,
-    "authno": 67,
-    "author_died": "1420",
     "release": "v1.3"
   },
   {
@@ -54306,20 +51660,6 @@
     "release": "v1.3"
   },
   {
-    "bkid": 21576,
-    "title": "الفتاوى الذهبية في بيع وشراء الذهب",
-    "author": "ابن عثيمين",
-    "category": "الفتاوى",
-    "cat_id": 141,
-    "pages": 30,
-    "filename": "21576.sqlite.zst",
-    "size_raw": 53248,
-    "size_zst": 11047,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.3"
-  },
-  {
     "bkid": 21577,
     "title": "الجمعة للنسائي",
     "author": "النسائي",
@@ -54348,20 +51688,6 @@
     "release": "v1.3"
   },
   {
-    "bkid": 21579,
-    "title": "زاد الداعية إلى الله",
-    "author": "ابن عثيمين",
-    "category": "الدعوة وأحوال المسلمين",
-    "cat_id": 156,
-    "pages": 17,
-    "filename": "21579.sqlite.zst",
-    "size_raw": 77824,
-    "size_zst": 15208,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.3"
-  },
-  {
     "bkid": 21580,
     "title": "فتح رب البرية شرح المقدمة الجزرية في علم التجويد",
     "author": "صفوت محمود سالم",
@@ -54373,20 +51699,6 @@
     "size_zst": 54302,
     "authno": 510,
     "author_died": "",
-    "release": "v1.3"
-  },
-  {
-    "bkid": 21581,
-    "title": "مصطلح الحديث",
-    "author": "ابن عثيمين",
-    "category": "علوم الحديث",
-    "cat_id": 126,
-    "pages": 59,
-    "filename": "21581.sqlite.zst",
-    "size_raw": 221184,
-    "size_zst": 40747,
-    "authno": 57,
-    "author_died": "1421",
     "release": "v1.3"
   },
   {
@@ -54415,48 +51727,6 @@
     "size_zst": 66532,
     "authno": 622,
     "author_died": "نحو 590",
-    "release": "v1.3"
-  },
-  {
-    "bkid": 21585,
-    "title": "مناسك الحج والعمرة والمشروع في الزيارة",
-    "author": "ابن عثيمين",
-    "category": "بحوث ومسائل",
-    "cat_id": 139,
-    "pages": 147,
-    "filename": "21585.sqlite.zst",
-    "size_raw": 315392,
-    "size_zst": 61853,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.3"
-  },
-  {
-    "bkid": 21586,
-    "title": "نبذ في الصيام",
-    "author": "ابن عثيمين",
-    "category": "بحوث ومسائل",
-    "cat_id": 139,
-    "pages": 6,
-    "filename": "21586.sqlite.zst",
-    "size_raw": 24576,
-    "size_zst": 3306,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.3"
-  },
-  {
-    "bkid": 21587,
-    "title": "نبذة في العقيدة الإسلامية",
-    "author": "ابن عثيمين",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 40,
-    "filename": "21587.sqlite.zst",
-    "size_raw": 151552,
-    "size_zst": 29778,
-    "authno": 57,
-    "author_died": "1421",
     "release": "v1.3"
   },
   {
@@ -55860,20 +53130,6 @@
     "release": "v1.3"
   },
   {
-    "bkid": 21792,
-    "title": "أخطاء يرتكبها بعض الحجاج",
-    "author": "ابن عثيمين",
-    "category": "بحوث ومسائل - مرقم آليا",
-    "cat_id": 187,
-    "pages": 18,
-    "filename": "21792.sqlite.zst",
-    "size_raw": 86016,
-    "size_zst": 12616,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.3"
-  },
-  {
     "bkid": 21794,
     "title": "رؤية الله للدارقطني",
     "author": "الدارقطني",
@@ -55885,34 +53141,6 @@
     "size_zst": 69336,
     "authno": 223,
     "author_died": "385",
-    "release": "v1.3"
-  },
-  {
-    "bkid": 21796,
-    "title": "أصول في التفسير",
-    "author": "ابن عثيمين",
-    "category": "علوم القرآن",
-    "cat_id": 128,
-    "pages": 60,
-    "filename": "21796.sqlite.zst",
-    "size_raw": 208896,
-    "size_zst": 37200,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.3"
-  },
-  {
-    "bkid": 21797,
-    "title": "الإبداع في بيان كمال الشرع وخطر الابتداع",
-    "author": "ابن عثيمين",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 24,
-    "filename": "21797.sqlite.zst",
-    "size_raw": 57344,
-    "size_zst": 10882,
-    "authno": 57,
-    "author_died": "1421",
     "release": "v1.3"
   },
   {
@@ -55930,104 +53158,6 @@
     "release": "v1.3"
   },
   {
-    "bkid": 21800,
-    "title": "الذكر الثمين",
-    "author": "ابن عثيمين",
-    "category": "الرقاق والآداب والأذكار - مرقم آليا",
-    "cat_id": 160,
-    "pages": 41,
-    "filename": "21800.sqlite.zst",
-    "size_raw": 90112,
-    "size_zst": 15164,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.3"
-  },
-  {
-    "bkid": 21801,
-    "title": "المناهي اللفظية",
-    "author": "ابن عثيمين",
-    "category": "بحوث ومسائل",
-    "cat_id": 139,
-    "pages": 119,
-    "filename": "21801.sqlite.zst",
-    "size_raw": 196608,
-    "size_zst": 40496,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.3"
-  },
-  {
-    "bkid": 21802,
-    "title": "المنتقى من فرائد الفوائد",
-    "author": "ابن عثيمين",
-    "category": "فقه عام",
-    "cat_id": 138,
-    "pages": 247,
-    "filename": "21802.sqlite.zst",
-    "size_raw": 774144,
-    "size_zst": 136802,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.3"
-  },
-  {
-    "bkid": 21804,
-    "title": "تعاون الدعاة وأثره في المجتمع",
-    "author": "ابن عثيمين",
-    "category": "الدعوة وأحوال المسلمين - مرقم آليا",
-    "cat_id": 106,
-    "pages": 38,
-    "filename": "21804.sqlite.zst",
-    "size_raw": 126976,
-    "size_zst": 22329,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.3"
-  },
-  {
-    "bkid": 21805,
-    "title": "تفسير العثيمين: الحجرات - الحديد",
-    "author": "ابن عثيمين",
-    "category": "التفاسير",
-    "cat_id": 127,
-    "pages": 429,
-    "filename": "21805.sqlite.zst",
-    "size_raw": 1691648,
-    "size_zst": 234383,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.3"
-  },
-  {
-    "bkid": 21807,
-    "title": "تفسير العثيمين: الكهف",
-    "author": "ابن عثيمين",
-    "category": "التفاسير",
-    "cat_id": 127,
-    "pages": 146,
-    "filename": "21807.sqlite.zst",
-    "size_raw": 581632,
-    "size_zst": 88059,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.3"
-  },
-  {
-    "bkid": 21808,
-    "title": "تفسير العثيمين: جزء عم",
-    "author": "ابن عثيمين",
-    "category": "التفاسير",
-    "cat_id": 127,
-    "pages": 353,
-    "filename": "21808.sqlite.zst",
-    "size_raw": 1368064,
-    "size_zst": 217600,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.3"
-  },
-  {
     "bkid": 21809,
     "title": "جامع المسانيد والسنن",
     "author": "ابن كثير",
@@ -56039,34 +53169,6 @@
     "size_zst": 3175268,
     "authno": 3,
     "author_died": "774",
-    "release": "v1.3"
-  },
-  {
-    "bkid": 21810,
-    "title": "رسالة الحجاب",
-    "author": "ابن عثيمين",
-    "category": "بحوث ومسائل",
-    "cat_id": 139,
-    "pages": 32,
-    "filename": "21810.sqlite.zst",
-    "size_raw": 77824,
-    "size_zst": 14122,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.3"
-  },
-  {
-    "bkid": 21812,
-    "title": "شرح الأربعين النووية للعثيمين",
-    "author": "ابن عثيمين",
-    "category": "شروح الحديث",
-    "cat_id": 108,
-    "pages": 404,
-    "filename": "21812.sqlite.zst",
-    "size_raw": 1544192,
-    "size_zst": 247349,
-    "authno": 57,
-    "author_died": "1421",
     "release": "v1.3"
   },
   {
@@ -56084,90 +53186,6 @@
     "release": "v1.3"
   },
   {
-    "bkid": 21814,
-    "title": "شرح حديث جابر بن عبد الله رضي الله عنهما في صفة حجة النبي صلى الله عليه وسلم",
-    "author": "ابن عثيمين",
-    "category": "شروح الحديث",
-    "cat_id": 108,
-    "pages": 136,
-    "filename": "21814.sqlite.zst",
-    "size_raw": 311296,
-    "size_zst": 62544,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.3"
-  },
-  {
-    "bkid": 21815,
-    "title": "شرح دعاء قنوت الوتر",
-    "author": "ابن عثيمين",
-    "category": "شروح الحديث - مرقم آليا",
-    "cat_id": 186,
-    "pages": 15,
-    "filename": "21815.sqlite.zst",
-    "size_raw": 69632,
-    "size_zst": 10915,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.3"
-  },
-  {
-    "bkid": 21816,
-    "title": "صفة صلاة النبي صلى الله عليه وسلم - العثيمين",
-    "author": "ابن عثيمين",
-    "category": "بحوث ومسائل - مرقم آليا",
-    "cat_id": 187,
-    "pages": 14,
-    "filename": "21816.sqlite.zst",
-    "size_raw": 61440,
-    "size_zst": 9343,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.3"
-  },
-  {
-    "bkid": 21817,
-    "title": "فتح رب البرية بتلخيص الحموية",
-    "author": "ابن عثيمين",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 125,
-    "filename": "21817.sqlite.zst",
-    "size_raw": 237568,
-    "size_zst": 47830,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.3"
-  },
-  {
-    "bkid": 21818,
-    "title": "فصول في الصيام والتراويح والزكاة",
-    "author": "ابن عثيمين",
-    "category": "بحوث ومسائل - مرقم آليا",
-    "cat_id": 187,
-    "pages": 20,
-    "filename": "21818.sqlite.zst",
-    "size_raw": 86016,
-    "size_zst": 14308,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.3"
-  },
-  {
-    "bkid": 21819,
-    "title": "مذكرة على العقيدة الواسطية",
-    "author": "ابن عثيمين",
-    "category": "العقيدة - مرقم آليا",
-    "cat_id": 183,
-    "pages": 57,
-    "filename": "21819.sqlite.zst",
-    "size_raw": 233472,
-    "size_zst": 36759,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.3"
-  },
-  {
     "bkid": 21821,
     "title": "التفسير الوسيط للواحدي",
     "author": "الواحدي",
@@ -56179,34 +53197,6 @@
     "size_zst": 1635453,
     "authno": 1,
     "author_died": "468",
-    "release": "v1.3"
-  },
-  {
-    "bkid": 21822,
-    "title": "مختصر أحكام الأضحية والذكاة",
-    "author": "ابن عثيمين",
-    "category": "بحوث ومسائل - مرقم آليا",
-    "cat_id": 187,
-    "pages": 29,
-    "filename": "21822.sqlite.zst",
-    "size_raw": 114688,
-    "size_zst": 16586,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.3"
-  },
-  {
-    "bkid": 21823,
-    "title": "فقه العبادات للعثيمين",
-    "author": "ابن عثيمين",
-    "category": "بحوث ومسائل - مرقم آليا",
-    "cat_id": 187,
-    "pages": 327,
-    "filename": "21823.sqlite.zst",
-    "size_raw": 1122304,
-    "size_zst": 206885,
-    "authno": 57,
-    "author_died": "1421",
     "release": "v1.3"
   },
   {
@@ -56557,20 +53547,6 @@
     "size_zst": 40360,
     "authno": 246,
     "author_died": "463",
-    "release": "v1.3"
-  },
-  {
-    "bkid": 22565,
-    "title": "الدعوة إلى الله وأخلاق الدعاة",
-    "author": "ابن باز",
-    "category": "الدعوة وأحوال المسلمين",
-    "cat_id": 156,
-    "pages": 47,
-    "filename": "22565.sqlite.zst",
-    "size_raw": 98304,
-    "size_zst": 18251,
-    "authno": 67,
-    "author_died": "1420",
     "release": "v1.3"
   },
   {
@@ -57624,20 +54600,6 @@
     "release": "v1.4"
   },
   {
-    "bkid": 22895,
-    "title": "منع جواز المجاز",
-    "author": "الشنقيطي، محمد الأمين",
-    "category": "علوم القرآن",
-    "cat_id": 128,
-    "pages": 51,
-    "filename": "22895.sqlite.zst",
-    "size_raw": 135168,
-    "size_zst": 26677,
-    "authno": 114,
-    "author_died": "1393",
-    "release": "v1.4"
-  },
-  {
     "bkid": 22910,
     "title": "غريب القرآن للسجستاني",
     "author": "السجستاني، ابن عزير",
@@ -57691,20 +54653,6 @@
     "size_zst": 2455806,
     "authno": 1112,
     "author_died": "1376",
-    "release": "v1.4"
-  },
-  {
-    "bkid": 22918,
-    "title": "أضواء البيان في إيضاح القرآن بالقرآن",
-    "author": "الشنقيطي، محمد الأمين",
-    "category": "التفاسير",
-    "cat_id": 127,
-    "pages": 4348,
-    "filename": "22918.sqlite.zst",
-    "size_raw": 23695360,
-    "size_zst": 3700678,
-    "authno": 114,
-    "author_died": "1393",
     "release": "v1.4"
   },
   {
@@ -57789,20 +54737,6 @@
     "size_zst": 52492,
     "authno": 1028,
     "author_died": "1420",
-    "release": "v1.4"
-  },
-  {
-    "bkid": 22951,
-    "title": "الرد على من كذب بالأحاديث الصحيحة الواردة في المهدي",
-    "author": "عبد المحسن العباد",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 55,
-    "filename": "22951.sqlite.zst",
-    "size_raw": 327680,
-    "size_zst": 61890,
-    "authno": 185,
-    "author_died": "معاصر",
     "release": "v1.4"
   },
   {
@@ -67018,20 +63952,6 @@
     "release": "v1.1"
   },
   {
-    "bkid": 30822,
-    "title": "بيان التوحيد الذي بعث الله به الرسل جميعا وبعث به خاتمهم محمدا عليه السلام",
-    "author": "ابن باز",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 96,
-    "filename": "30822.sqlite.zst",
-    "size_raw": 188416,
-    "size_zst": 35625,
-    "authno": 67,
-    "author_died": "1420",
-    "release": "v1.1"
-  },
-  {
     "bkid": 30823,
     "title": "تلبيس مردود في قضايا حية",
     "author": "صالح بن حميد",
@@ -67116,20 +64036,6 @@
     "release": "v1.1"
   },
   {
-    "bkid": 30846,
-    "title": "التوحيد للفوزان",
-    "author": "صالح الفوزان",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 166,
-    "filename": "30846.sqlite.zst",
-    "size_raw": 303104,
-    "size_zst": 61289,
-    "authno": 62,
-    "author_died": "معاصر",
-    "release": "v1.1"
-  },
-  {
     "bkid": 30847,
     "title": "أصول الإيمان في ضوء الكتاب والسنة",
     "author": "مجموعة من المؤلفين",
@@ -67141,20 +64047,6 @@
     "size_zst": 136227,
     "authno": 208,
     "author_died": "",
-    "release": "v1.1"
-  },
-  {
-    "bkid": 30850,
-    "title": "كشف الشبهات",
-    "author": "محمد بن عبد الوهاب",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 53,
-    "filename": "30850.sqlite.zst",
-    "size_raw": 77824,
-    "size_zst": 16463,
-    "authno": 152,
-    "author_died": "1206",
     "release": "v1.1"
   },
   {
@@ -67256,34 +64148,6 @@
     "release": "v1.1"
   },
   {
-    "bkid": 30869,
-    "title": "نواقض الإسلام",
-    "author": "ابن باز",
-    "category": "العقيدة - مرقم آليا",
-    "cat_id": 183,
-    "pages": 1,
-    "filename": "30869.sqlite.zst",
-    "size_raw": 16384,
-    "size_zst": 3073,
-    "authno": 67,
-    "author_died": "1420",
-    "release": "v1.1"
-  },
-  {
-    "bkid": 30870,
-    "title": "وجوب تحكيم شرع الله ونبذ ما خالفه",
-    "author": "ابن باز",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 17,
-    "filename": "30870.sqlite.zst",
-    "size_raw": 49152,
-    "size_zst": 8654,
-    "authno": 67,
-    "author_died": "1420",
-    "release": "v1.1"
-  },
-  {
     "bkid": 30871,
     "title": "الولاء والبراء بين الغلو والجفاء في ضوء الكتاب والسنة",
     "author": "حاتم العوني",
@@ -67340,20 +64204,6 @@
     "release": "v1.1"
   },
   {
-    "bkid": 30882,
-    "title": "معنى لا إله إلا الله - محمد بن عبد الوهاب",
-    "author": "محمد بن عبد الوهاب",
-    "category": "العقيدة - مرقم آليا",
-    "cat_id": 183,
-    "pages": 3,
-    "filename": "30882.sqlite.zst",
-    "size_raw": 28672,
-    "size_zst": 3896,
-    "authno": 152,
-    "author_died": "1206",
-    "release": "v1.1"
-  },
-  {
     "bkid": 30885,
     "title": "قمع الدجاجلة الطاعنين في معتقد أئمة الإسلام الحنابلة",
     "author": "عبد العزيز بن فيصل الراجحي",
@@ -67393,20 +64243,6 @@
     "size_zst": 301788,
     "authno": 344,
     "author_died": "معاصر",
-    "release": "v1.1"
-  },
-  {
-    "bkid": 30889,
-    "title": "وجوب العمل بسنة الرسول صلى الله عليه وسلم وكفر من أنكرها",
-    "author": "ابن باز",
-    "category": "أصول الفقه والقواعد الفقهية",
-    "cat_id": 133,
-    "pages": 27,
-    "filename": "30889.sqlite.zst",
-    "size_raw": 49152,
-    "size_zst": 9501,
-    "authno": 67,
-    "author_died": "1420",
     "release": "v1.1"
   },
   {
@@ -67550,20 +64386,6 @@
     "release": "v1.1"
   },
   {
-    "bkid": 30914,
-    "title": "الإمام محمد بن عبد الوهاب دعوته وسيرته",
-    "author": "ابن باز",
-    "category": "التراجم والطبقات",
-    "cat_id": 146,
-    "pages": 54,
-    "filename": "30914.sqlite.zst",
-    "size_raw": 110592,
-    "size_zst": 21978,
-    "authno": 67,
-    "author_died": "1420",
-    "release": "v1.1"
-  },
-  {
     "bkid": 30915,
     "title": "البدع والمخالفات في الحج",
     "author": "مجموعة من المؤلفين",
@@ -67592,20 +64414,6 @@
     "release": "v1.1"
   },
   {
-    "bkid": 30917,
-    "title": "التحذير من البدع",
-    "author": "ابن باز",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 69,
-    "filename": "30917.sqlite.zst",
-    "size_raw": 94208,
-    "size_zst": 17934,
-    "authno": 67,
-    "author_died": "1420",
-    "release": "v1.1"
-  },
-  {
     "bkid": 30918,
     "title": "التدرج في دعوة النبي",
     "author": "إبراهيم المطلق",
@@ -67631,34 +64439,6 @@
     "size_zst": 314645,
     "authno": 150,
     "author_died": "معاصر",
-    "release": "v1.1"
-  },
-  {
-    "bkid": 30920,
-    "title": "الضياء اللامع من الخطب الجوامع",
-    "author": "ابن عثيمين",
-    "category": "الرقاق والآداب والأذكار",
-    "cat_id": 113,
-    "pages": 710,
-    "filename": "30920.sqlite.zst",
-    "size_raw": 2924544,
-    "size_zst": 503179,
-    "authno": 57,
-    "author_died": "1421",
-    "release": "v1.1"
-  },
-  {
-    "bkid": 30921,
-    "title": "الفواكه الشهية في الخطب المنبرية والخطب المنبرية على المناسبات",
-    "author": "عبد الرحمن السعدي",
-    "category": "الرقاق والآداب والأذكار",
-    "cat_id": 113,
-    "pages": 277,
-    "filename": "30921.sqlite.zst",
-    "size_raw": 561152,
-    "size_zst": 109586,
-    "authno": 128,
-    "author_died": "1376",
     "release": "v1.1"
   },
   {
@@ -67928,34 +64708,6 @@
     "release": "v1.1"
   },
   {
-    "bkid": 31084,
-    "title": "من مشاهير المجددين في الإسلام",
-    "author": "صالح الفوزان",
-    "category": "التراجم والطبقات - مرقم آليا",
-    "cat_id": 184,
-    "pages": 16,
-    "filename": "31084.sqlite.zst",
-    "size_raw": 151552,
-    "size_zst": 35175,
-    "authno": 62,
-    "author_died": "معاصر",
-    "release": "v1.1"
-  },
-  {
-    "bkid": 31086,
-    "title": "التحاكم إلى الكتاب والسنة في حفظ الأمن وحماية الأرواح",
-    "author": "ابن باز",
-    "category": "الفتاوى",
-    "cat_id": 141,
-    "pages": 9,
-    "filename": "31086.sqlite.zst",
-    "size_raw": 28672,
-    "size_zst": 4278,
-    "authno": 67,
-    "author_died": "1420",
-    "release": "v1.1"
-  },
-  {
     "bkid": 31088,
     "title": "حرمة الإفساد في الأرض",
     "author": "عبد العزيز بن عبد الله آل الشيخ",
@@ -68040,48 +64792,6 @@
     "release": "v1.1"
   },
   {
-    "bkid": 31225,
-    "title": "فتاوى عاجلة لمنسوبي الصحة",
-    "author": "ابن باز",
-    "category": "الفتاوى",
-    "cat_id": 141,
-    "pages": 45,
-    "filename": "31225.sqlite.zst",
-    "size_raw": 73728,
-    "size_zst": 14816,
-    "authno": 67,
-    "author_died": "1420",
-    "release": "v1.1"
-  },
-  {
-    "bkid": 31226,
-    "title": "فتاوى مهمة تتعلق بالحج والعمرة",
-    "author": "ابن باز",
-    "category": "الفتاوى",
-    "cat_id": 141,
-    "pages": 52,
-    "filename": "31226.sqlite.zst",
-    "size_raw": 81920,
-    "size_zst": 16138,
-    "authno": 67,
-    "author_died": "1420",
-    "release": "v1.1"
-  },
-  {
-    "bkid": 31227,
-    "title": "كيفية صلاة النبي صلى الله عليه وسلم",
-    "author": "ابن باز",
-    "category": "بحوث ومسائل",
-    "cat_id": 139,
-    "pages": 22,
-    "filename": "31227.sqlite.zst",
-    "size_raw": 32768,
-    "size_zst": 5081,
-    "authno": 67,
-    "author_died": "1420",
-    "release": "v1.1"
-  },
-  {
     "bkid": 31228,
     "title": "مجموعة رسائل في الحجاب والسفور",
     "author": "مجموعة من المؤلفين",
@@ -68107,20 +64817,6 @@
     "size_zst": 12816,
     "authno": 150,
     "author_died": "معاصر",
-    "release": "v1.1"
-  },
-  {
-    "bkid": 31235,
-    "title": "التحقيق والإيضاح لكثير من مسائل الحج والعمرة والزيارة على ضوء الكتاب",
-    "author": "ابن باز",
-    "category": "بحوث ومسائل",
-    "cat_id": 139,
-    "pages": 105,
-    "filename": "31235.sqlite.zst",
-    "size_raw": 163840,
-    "size_zst": 34378,
-    "authno": 67,
-    "author_died": "1420",
     "release": "v1.1"
   },
   {
@@ -68180,20 +64876,6 @@
     "release": "v1.1"
   },
   {
-    "bkid": 31241,
-    "title": "الفوائد الجلية في المباحث الفرضية",
-    "author": "ابن باز",
-    "category": "بحوث ومسائل",
-    "cat_id": 139,
-    "pages": 103,
-    "filename": "31241.sqlite.zst",
-    "size_raw": 196608,
-    "size_zst": 30631,
-    "authno": 67,
-    "author_died": "1420",
-    "release": "v1.1"
-  },
-  {
     "bkid": 31245,
     "title": "المشروع والممنوع في المسجد - محمد العرفج",
     "author": "محمد بن علي العرفج",
@@ -68205,20 +64887,6 @@
     "size_zst": 14296,
     "authno": 606,
     "author_died": "معاصر",
-    "release": "v1.2"
-  },
-  {
-    "bkid": 31246,
-    "title": "آداب المشي إلى الصلاة ط الوزارة",
-    "author": "محمد بن عبد الوهاب",
-    "category": "فقه حنبلي",
-    "cat_id": 137,
-    "pages": 56,
-    "filename": "31246.sqlite.zst",
-    "size_raw": 73728,
-    "size_zst": 16870,
-    "authno": 152,
-    "author_died": "1206",
     "release": "v1.2"
   },
   {
@@ -68236,20 +64904,6 @@
     "release": "v1.2"
   },
   {
-    "bkid": 31249,
-    "title": "أحكام صلاة المريض",
-    "author": "ابن باز",
-    "category": "بحوث ومسائل",
-    "cat_id": 139,
-    "pages": 50,
-    "filename": "31249.sqlite.zst",
-    "size_raw": 86016,
-    "size_zst": 18275,
-    "authno": 67,
-    "author_died": "1420",
-    "release": "v1.2"
-  },
-  {
     "bkid": 31251,
     "title": "تحريم حلق اللحى - وجوب إعفاء اللحية",
     "author": "عبد الرحمن بن قاسم",
@@ -68261,62 +64915,6 @@
     "size_zst": 7854,
     "authno": 32,
     "author_died": "1392",
-    "release": "v1.2"
-  },
-  {
-    "bkid": 31252,
-    "title": "تحفة الإخوان بأجوبة مهمة تتعلق بأركان الإسلام",
-    "author": "ابن باز",
-    "category": "بحوث ومسائل",
-    "cat_id": 139,
-    "pages": 207,
-    "filename": "31252.sqlite.zst",
-    "size_raw": 475136,
-    "size_zst": 85544,
-    "authno": 67,
-    "author_died": "1420",
-    "release": "v1.2"
-  },
-  {
-    "bkid": 31254,
-    "title": "تنبيهات على أحكام تختص بالمؤمنات",
-    "author": "صالح الفوزان",
-    "category": "بحوث ومسائل",
-    "cat_id": 139,
-    "pages": 112,
-    "filename": "31254.sqlite.zst",
-    "size_raw": 253952,
-    "size_zst": 51521,
-    "authno": 62,
-    "author_died": "معاصر",
-    "release": "v1.2"
-  },
-  {
-    "bkid": 31256,
-    "title": "ثلاث رسائل في الصلاة",
-    "author": "ابن باز",
-    "category": "بحوث ومسائل",
-    "cat_id": 139,
-    "pages": 34,
-    "filename": "31256.sqlite.zst",
-    "size_raw": 77824,
-    "size_zst": 13424,
-    "authno": 67,
-    "author_died": "1420",
-    "release": "v1.2"
-  },
-  {
-    "bkid": 31258,
-    "title": "حكم شرب الدخان وإمامة من يتجاهر به",
-    "author": "ابن باز",
-    "category": "بحوث ومسائل",
-    "cat_id": 139,
-    "pages": 7,
-    "filename": "31258.sqlite.zst",
-    "size_raw": 32768,
-    "size_zst": 5129,
-    "authno": 67,
-    "author_died": "1420",
     "release": "v1.2"
   },
   {
@@ -68348,34 +64946,6 @@
     "release": "v1.2"
   },
   {
-    "bkid": 31261,
-    "title": "رسالتان في الصلاة",
-    "author": "ابن باز",
-    "category": "بحوث ومسائل",
-    "cat_id": 139,
-    "pages": 27,
-    "filename": "31261.sqlite.zst",
-    "size_raw": 45056,
-    "size_zst": 8359,
-    "authno": 67,
-    "author_died": "1420",
-    "release": "v1.2"
-  },
-  {
-    "bkid": 31267,
-    "title": "فتاوى تتعلق بأحكام الحج والعمرة والزيارة",
-    "author": "ابن باز",
-    "category": "الفتاوى",
-    "cat_id": 141,
-    "pages": 158,
-    "filename": "31267.sqlite.zst",
-    "size_raw": 311296,
-    "size_zst": 58609,
-    "authno": 67,
-    "author_died": "1420",
-    "release": "v1.2"
-  },
-  {
     "bkid": 31270,
     "title": "مشكلة السرف في المجتمع المسلم وعلاجها في ضوء الإسلام",
     "author": "عبد الله الطريقي",
@@ -68387,20 +64957,6 @@
     "size_zst": 77963,
     "authno": 610,
     "author_died": "معاصر",
-    "release": "v1.2"
-  },
-  {
-    "bkid": 31271,
-    "title": "من الأحكام الفقهية في الطهارة والصلاة والجنائز",
-    "author": "ابن عثيمين",
-    "category": "بحوث ومسائل",
-    "cat_id": 139,
-    "pages": 56,
-    "filename": "31271.sqlite.zst",
-    "size_raw": 94208,
-    "size_zst": 19724,
-    "authno": 57,
-    "author_died": "1421",
     "release": "v1.2"
   },
   {
@@ -68516,20 +65072,6 @@
     "release": "v1.2"
   },
   {
-    "bkid": 31295,
-    "title": "مهمات حول الجهاد",
-    "author": "صالح الفوزان",
-    "category": "بحوث ومسائل",
-    "cat_id": 139,
-    "pages": 61,
-    "filename": "31295.sqlite.zst",
-    "size_raw": 131072,
-    "size_zst": 27535,
-    "authno": 62,
-    "author_died": "معاصر",
-    "release": "v1.2"
-  },
-  {
     "bkid": 31297,
     "title": "خطبة الجمعة في الكتاب والسنة",
     "author": "عبد الرحمن بن محمد الحمد",
@@ -68541,34 +65083,6 @@
     "size_zst": 21647,
     "authno": 938,
     "author_died": "",
-    "release": "v1.2"
-  },
-  {
-    "bkid": 31303,
-    "title": "تحفة الأخيار ببيان جملة نافعة مما ورد في الكتاب والسنة من الأدعية والأذكار",
-    "author": "ابن باز",
-    "category": "الرقاق والآداب والأذكار",
-    "cat_id": 113,
-    "pages": 41,
-    "filename": "31303.sqlite.zst",
-    "size_raw": 81920,
-    "size_zst": 14118,
-    "authno": 67,
-    "author_died": "1420",
-    "release": "v1.2"
-  },
-  {
-    "bkid": 31304,
-    "title": "بهجة قلوب الأبرار وقرة عيون الأخيار ط الوزارة",
-    "author": "عبد الرحمن السعدي",
-    "category": "شروح الحديث",
-    "cat_id": 108,
-    "pages": 199,
-    "filename": "31304.sqlite.zst",
-    "size_raw": 815104,
-    "size_zst": 125498,
-    "authno": 128,
-    "author_died": "1376",
     "release": "v1.2"
   },
   {
@@ -68611,34 +65125,6 @@
     "size_zst": 49702,
     "authno": 1808,
     "author_died": null,
-    "release": "v1.2"
-  },
-  {
-    "bkid": 31324,
-    "title": "التبرج وخطر مشاركة المرأة للرجل في ميدان عمله",
-    "author": "ابن باز",
-    "category": "بحوث ومسائل",
-    "cat_id": 139,
-    "pages": 38,
-    "filename": "31324.sqlite.zst",
-    "size_raw": 73728,
-    "size_zst": 15284,
-    "authno": 67,
-    "author_died": "1420",
-    "release": "v1.2"
-  },
-  {
-    "bkid": 31341,
-    "title": "رسالة في الدماء الطبيعية للنساء",
-    "author": "ابن عثيمين",
-    "category": "بحوث ومسائل",
-    "cat_id": 139,
-    "pages": 71,
-    "filename": "31341.sqlite.zst",
-    "size_raw": 118784,
-    "size_zst": 25826,
-    "authno": 57,
-    "author_died": "1421",
     "release": "v1.2"
   },
   {
@@ -68723,20 +65209,6 @@
     "size_zst": 67916,
     "authno": 1810,
     "author_died": null,
-    "release": "v1.2"
-  },
-  {
-    "bkid": 31363,
-    "title": "تيسير اللطيف المنان في خلاصة تفسير القرآن",
-    "author": "عبد الرحمن السعدي",
-    "category": "التفاسير",
-    "cat_id": 127,
-    "pages": 363,
-    "filename": "31363.sqlite.zst",
-    "size_raw": 1482752,
-    "size_zst": 232659,
-    "authno": 128,
-    "author_died": "1376",
     "release": "v1.2"
   },
   {
@@ -68908,34 +65380,6 @@
     "release": "v1.2"
   },
   {
-    "bkid": 31457,
-    "title": "مختصر زاد المعاد",
-    "author": "محمد بن عبد الوهاب",
-    "category": "السيرة والشمائل",
-    "cat_id": 144,
-    "pages": 202,
-    "filename": "31457.sqlite.zst",
-    "size_raw": 1019904,
-    "size_zst": 211070,
-    "authno": 152,
-    "author_died": "1206",
-    "release": "v1.2"
-  },
-  {
-    "bkid": 31465,
-    "title": "مختصر سيرة الرسول صلى الله عليه وسلم لمحمد بن عبد الوهاب",
-    "author": "محمد بن عبد الوهاب",
-    "category": "السيرة والشمائل",
-    "cat_id": 144,
-    "pages": 320,
-    "filename": "31465.sqlite.zst",
-    "size_raw": 1028096,
-    "size_zst": 181659,
-    "authno": 152,
-    "author_died": "1206",
-    "release": "v1.2"
-  },
-  {
     "bkid": 31468,
     "title": "بحث عن السيرة النبوية",
     "author": "-",
@@ -69031,20 +65475,6 @@
     "size_zst": 17210,
     "authno": 151,
     "author_died": "",
-    "release": "v1.2"
-  },
-  {
-    "bkid": 31514,
-    "title": "نقد القومية العربية على ضوء الإسلام والواقع",
-    "author": "ابن باز",
-    "category": "بحوث ومسائل",
-    "cat_id": 139,
-    "pages": 59,
-    "filename": "31514.sqlite.zst",
-    "size_raw": 163840,
-    "size_zst": 34747,
-    "authno": 67,
-    "author_died": "1420",
     "release": "v1.2"
   },
   {
@@ -76244,20 +72674,6 @@
     "release": "v1.2"
   },
   {
-    "bkid": 32084,
-    "title": "الأسئلة والأجوبة في العقيدة",
-    "author": "صالح بن عبد الرحمن الأطرم",
-    "category": "العقيدة",
-    "cat_id": 124,
-    "pages": 74,
-    "filename": "32084.sqlite.zst",
-    "size_raw": 176128,
-    "size_zst": 34507,
-    "authno": 1523,
-    "author_died": "1428",
-    "release": "v1.2"
-  },
-  {
     "bkid": 32085,
     "title": "التدريب وأهميته في العمل الإسلامي",
     "author": "محمد بن موسى الشريف",
@@ -77112,20 +73528,6 @@
     "release": "v1.2"
   },
   {
-    "bkid": 32146,
-    "title": "شرح الأربعين النووية - العباد",
-    "author": "عبد المحسن العباد",
-    "category": "شروح الحديث - مرقم آليا",
-    "cat_id": 186,
-    "pages": 1058,
-    "filename": "32146.sqlite.zst",
-    "size_raw": 2301952,
-    "size_zst": 427347,
-    "authno": 185,
-    "author_died": "معاصر",
-    "release": "v1.2"
-  },
-  {
     "bkid": 32147,
     "title": "المقدمة الزهرا في إيضاح الإمامة الكبرى",
     "author": "الذهبي، شمس الدين",
@@ -77165,20 +73567,6 @@
     "size_zst": 84020,
     "authno": 7,
     "author_died": "911",
-    "release": "v1.2"
-  },
-  {
-    "bkid": 32150,
-    "title": "شرح ألفية ابن مالك للعثيمين",
-    "author": "ابن عثيمين",
-    "category": "النحو والصرف - مرقم آليا",
-    "cat_id": 192,
-    "pages": 761,
-    "filename": "32150.sqlite.zst",
-    "size_raw": 2519040,
-    "size_zst": 461612,
-    "authno": 57,
-    "author_died": "1421",
     "release": "v1.2"
   },
   {
@@ -77346,20 +73734,6 @@
     "size_raw": 323584,
     "size_zst": 65446,
     "authno": 1206,
-    "author_died": "معاصر",
-    "release": "v1.2"
-  },
-  {
-    "bkid": 32163,
-    "title": "دروس الشيخ عبد المحسن العباد",
-    "author": "عبد المحسن العباد",
-    "category": "محاضرات مفرغة",
-    "cat_id": 155,
-    "pages": 23,
-    "filename": "32163.sqlite.zst",
-    "size_raw": 135168,
-    "size_zst": 27764,
-    "authno": 185,
     "author_died": "معاصر",
     "release": "v1.2"
   },
@@ -77938,20 +74312,6 @@
     "release": "v1.2"
   },
   {
-    "bkid": 32205,
-    "title": "شرح سنن أبي داود للعباد",
-    "author": "عبد المحسن العباد",
-    "category": "شروح الحديث - مرقم آليا",
-    "cat_id": 186,
-    "pages": 18341,
-    "filename": "32205.sqlite.zst",
-    "size_raw": 35672064,
-    "size_zst": 5563603,
-    "authno": 185,
-    "author_died": "معاصر",
-    "release": "v1.2"
-  },
-  {
     "bkid": 32206,
     "title": "أدب النفس",
     "author": "الترمذي، الحكيم",
@@ -78523,20 +74883,6 @@
     "size_zst": 137293,
     "authno": 2282,
     "author_died": "معاصر",
-    "release": "v1.2"
-  },
-  {
-    "bkid": 32248,
-    "title": "شرح رسالة محمد بن عبد الوهاب في شروط الصلاة وأركانها وواجباتها",
-    "author": "ابن باز",
-    "category": "بحوث ومسائل - مرقم آليا",
-    "cat_id": 187,
-    "pages": 33,
-    "filename": "32248.sqlite.zst",
-    "size_raw": 135168,
-    "size_zst": 25149,
-    "authno": 67,
-    "author_died": "1420",
     "release": "v1.2"
   },
   {
@@ -83059,20 +79405,6 @@
     "size_zst": 468101,
     "authno": 2484,
     "author_died": "معاصر",
-    "release": "v1.3"
-  },
-  {
-    "bkid": 32572,
-    "title": "دروس للشيخ العثيمين",
-    "author": "ابن عثيمين",
-    "category": "فقه عام - مرقم آليا",
-    "cat_id": 92,
-    "pages": 617,
-    "filename": "32572.sqlite.zst",
-    "size_raw": 1048576,
-    "size_zst": 208325,
-    "authno": 57,
-    "author_died": "1421",
     "release": "v1.3"
   },
   {
